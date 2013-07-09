@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+The System Element has been implemented and tested, and is believed to be ready for integration into the Software System.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The System Element has been implemented in a way that is conformant with its interfaces.
+* The System Element implements the operations on its provided interfaces.
+* The System Element has been verified as conformant with its interfaces by passing all its unit tests. 
+* The System Element is available for integration into the Software System.

@@ -1,0 +1,10 @@
+{element-name:id=default|level=2}
+
+The work required to do the task has been completed.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Work on the Task has stopped.
+* The task is determined to be complete according to its completion criteria. 

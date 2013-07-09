@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<carddefinitions>
+	<carddefinition eclass="Alpha" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="characteristics" heading="include-paragraphs"></section>
+		<section id="contents" heading="exclude-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="State" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="*" heading="exclude-heading"></section>
+	</carddefinition>
+	<carddefinition eclass="ActivitySpace" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+		<section id="criteria" heading="include-heading"></section>
+		<section id="availableActivities" heading="include-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="Competency" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="abilities" heading="include-paragraphs"></section>
+		<section id="essentialSkills" heading="include-heading-and-include-only-subheadings"></section>
+	</carddefinition>	
+	<carddefinition eclass="CompetencyLevel" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="*" heading="exclude-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="PatternSpace" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+		<section id="relatedPatternSpaces" heading="include-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="WorkProduct" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="characteristics" heading="include-paragraphs"></section>
+		<section id="essentialContents" heading="include-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="LevelOfDetail" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="*" heading="exclude-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="Activity" type="overview" imagescript="files/scripts/draw_card_diagrams.js">
+		<section id="purposes" heading="include-paragraphs"></section>
+		<section id="criteria" heading="include-heading"></section>
+		<section id="contributes" heading="include-heading"></section>
+		<section id="approaches" heading="include-heading-and-include-only-subheadings"></section>
+	</carddefinition>	
+	<carddefinition eclass="Pattern" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="outcomes" heading="exclude-heading"></section>
+		<section id="whenToApply" heading="exclude-heading"></section>
+		<section id="relatedPatterns" heading="include-heading"></section>
+	</carddefinition>	
+	<carddefinition eclass="Kernel" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="preamble" heading="exclude-heading"></section>
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+	</carddefinition>	
+	<carddefinition eclass="KernelExtension" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="preamble" heading="exclude-heading"></section>
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+	</carddefinition>	
+	<carddefinition eclass="Practice" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="preamble" heading="exclude-heading"></section>
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+	</carddefinition>	
+	<carddefinition eclass="PracticeExtension" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="preamble" heading="exclude-heading"></section>
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+	</carddefinition>	
+	<carddefinition eclass="PracticeAsset" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="preamble" heading="exclude-heading"></section>
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="content" heading="exclude-heading"></section>		
+	</carddefinition>	
+	<carddefinition eclass="Method" type="overview" imagescript="files/scripts/draw_card_diagrams.js" cardimagefilesuffix="_card.jpg">
+		<section id="preamble" heading="exclude-heading"></section>
+		<section id="brief" heading="include-paragraphs"></section>
+		<section id="purposes" heading="include-paragraphs"></section>
+	</carddefinition>	
+	
+	
+</carddefinitions>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Practice Template</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.ivarjacobson.essworkng.author.projectReferencesValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ivarjacobson.essworkng.author.project.natures.PracticeAuthoring</nature>
+		<nature>com.ivarjacobson.essworkng.author.project.natures.Practice</nature>
+	</natures>
+</projectDescription>

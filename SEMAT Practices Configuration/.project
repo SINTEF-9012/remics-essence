@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SEMAT Practices Configuration</name>
+	<comment>_project_:en/1.1.0</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.pde.ManifestBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.pde.SchemaBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ivarjacobson.essworkng.author.project.natures.Configuration</nature>
+		<nature>com.ivarjacobson.essworkng.author.project.natures.PracticeAuthoring</nature>
+	</natures>
+</projectDescription>

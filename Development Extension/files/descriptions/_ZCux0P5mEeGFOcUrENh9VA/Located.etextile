@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+The cause of the Bug in the Software System has been found.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The Bug has been investigated and its impact assessed.
+* The System Elements causing the Bug have been identified.
+* The cost of fixing and testing the Bug has been estimated.
+* The Bug is ready to be fixed.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="brief"/>
+<extensionpoint line="9" name="purposes"/>
+<extensionpoint line="15" name="principles"/>
+<extensionpoint line="19" name="characteristics"/>
+<extensionpoint line="23" name="whenToApply"/>
+<extensionpoint line="27" name="concepts"/>
+<extensionpoint line="31" name="tips"/>
+<extensionpoint line="35" name="name_of_tip"/>
+<extensionpoint line="39" name="faq"/>
+<extensionpoint line="43" name="name_of_qeustion"/>
+<extensionpoint line="47" name="references"/>
+<extensionpoint line="51" name="readings"/>
+<extensionpoint line="57" name="practices"/>
+<extensionpoint line="59" name="practice_name"/>
+</extensionpoints>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="brief"/>
+<extensionpoint line="9" name="purposes"/>
+<extensionpoint line="14" name="criteria"/>
+<extensionpoint line="22" name="references"/>
+<extensionpoint line="24" name="readings"/>
+</extensionpoints>

@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+The system (as a whole) has been accepted for deployment in a live environment.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Installation and other user documentation are available.
+* The stakeholder representatives accept the system as fit-for-purpose.
+* The stakeholder representatives want to make the system operational.
+* Operational support is in place.

@@ -1,0 +1,21 @@
+// Composition of extensions for (Kernel) Essence Kernel / (Alpha) Team
+
+//--------------------------------------------------------------------------------------------------
+// Extensions from (Practice) Scrum Essentials / (Alpha) Team
+// (/Scrum Essentials/files/descriptions/5d0b6dbb-c029-4b3c-9f8b-820ce0ce94fc/Team.etextile)
+//--------------------------------------------------------------------------------------------------
+
+// Extension Element
+
+// Please refer to the cheat sheet (F1) or content assist (Ctrl-Space) for help on extension actions.
+
+h1. Introduction
+
+
+
+
+{extend: action=insertAfter | location=team}
+The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to optimize flexibility, creativity, and productivity.
+{extend: action=insertAfter | location= }
+
+Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental deliveries of “Done” product ensure a potentially useful version of working product is always available. 

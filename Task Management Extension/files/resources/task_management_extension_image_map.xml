@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+	<area coords="102,40,259,97" name="Work" />
+	<area coords="97,325,254,383" name="Task" />
+	<area coords="287,165,443,225" name="Way of Working" />
+	<area coords="304,328,464,385" name="Practice Adoption" />	
+	<area coords="533,44,689,101" name="Team" />
+	<area coords="563,326,722,383" name="Team Member" />
+</areas>

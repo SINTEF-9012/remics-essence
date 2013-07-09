@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+A specific condition or capability that the Software System must address has been identified.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Requirement Item is briefly described.
+* The Requirement Item is put under configuration control.
+* The origin of the Requirement Item is clear.
+* The value of implementing the Requirement Item is clear.

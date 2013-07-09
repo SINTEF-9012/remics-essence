@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="purposes"/>
+<extensionpoint line="9" name="additional"/>
+<extensionpoint line="21" name="completionCriteria"/>
+<extensionpoint line="23" name="criteria"/>
+<extensionpoint line="29" name="contributes"/>
+</extensionpoints>

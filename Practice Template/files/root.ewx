@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="88a949a3-186c-4aff-9693-f4426fb16063" description="files/descriptions/88a949a3-186c-4aff-9693-f4426fb16063/Practice Template.etextile" copyright="" version="">
+  <alphas name="Alpha" id="ee0088fe-54ea-4608-8b05-7069400ac7af" description="files/descriptions/ee0088fe-54ea-4608-8b05-7069400ac7af/Alpha.etextile">
+    <stateMachine name="States" id="60118c08-1537-45e9-ab82-91025874c1ab">
+      <states name="State1" id="5a43fefc-0f76-4ab5-8d31-1503cd6748fe" description="files/descriptions/ee0088fe-54ea-4608-8b05-7069400ac7af/State1.etextile" order="10"/>
+      <states name="State2" id="dc607fb0-fc8a-4150-b79b-9e9a64f5fea0" description="files/descriptions/ee0088fe-54ea-4608-8b05-7069400ac7af/State2.etextile" order="20"/>
+      <states name="State3" id="7943d93c-f723-44fc-8e7b-2bc421f6684e" description="files/descriptions/ee0088fe-54ea-4608-8b05-7069400ac7af/State3.etextile" order="30"/>
+      <states name="State4" id="75125ea3-4a78-40d1-87f5-1acab9365ac7" description="files/descriptions/ee0088fe-54ea-4608-8b05-7069400ac7af/State4.etextile" order="40"/>
+      <states name="State5" id="d65d52a0-c424-4e47-8f76-d354d89ba160" description="files/descriptions/ee0088fe-54ea-4608-8b05-7069400ac7af/State5.etextile" order="50"/>
+    </stateMachine>
+    <workProducts name="Work Product" id="1ae83ff1-da4a-43c1-81c4-2ba47f4b3d87" description="files/descriptions/1ae83ff1-da4a-43c1-81c4-2ba47f4b3d87/Work Product.etextile">
+      <levels name="Levels Of Detail" id="0d57d602-f13e-4785-ae0e-08031f7a6b04">
+        <levelsOfDetail name="LevelOfDetail1" id="6b422f57-fb17-484e-b14b-53cb68668cac" description="files/descriptions/1ae83ff1-da4a-43c1-81c4-2ba47f4b3d87/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="b12a6af2-b865-4e0b-a4d7-1712f1305ba5" description="files/descriptions/1ae83ff1-da4a-43c1-81c4-2ba47f4b3d87/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="d0e674f7-afa1-4e06-b97e-4d6f8e71c2c8" description="files/descriptions/1ae83ff1-da4a-43c1-81c4-2ba47f4b3d87/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="1c06fa46-8b68-4b2a-8a2f-01e9debc6ce1" description="files/descriptions/1ae83ff1-da4a-43c1-81c4-2ba47f4b3d87/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <activitySpaces name="Activity Space" id="3fd5ec24-9c50-4bf4-bc55-4f2b50a3b4b7" description="files/descriptions/3fd5ec24-9c50-4bf4-bc55-4f2b50a3b4b7/Activity Space.etextile">
+    <activities name="Activity" id="67d9efad-f3a4-4d83-b5c6-e3cb7f5f1015" description="files/descriptions/67d9efad-f3a4-4d83-b5c6-e3cb7f5f1015/Activity.etextile">
+      <alphaCriteria name="Alpha Completion Criteria" id="6c862316-9294-4c3a-8d81-4eab54cb02c6"/>
+    </activities>
+  </activitySpaces>
+  <patternSpaces name="Pattern Space" id="ba2f84f9-615f-44c1-a9e4-e8ff183458b4" description="files/descriptions/ba2f84f9-615f-44c1-a9e4-e8ff183458b4/Pattern Space.etextile">
+    <patterns name="Pattern" id="cc06225a-6183-4afe-a51d-9518468833d1" description="files/descriptions/cc06225a-6183-4afe-a51d-9518468833d1/Pattern.etextile">
+      <alphaCriteria name="Alpha Completion Criterion" id="2516fdef-a5d1-4ee3-89da-7744d228c4ca"/>
+    </patterns>
+  </patternSpaces>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

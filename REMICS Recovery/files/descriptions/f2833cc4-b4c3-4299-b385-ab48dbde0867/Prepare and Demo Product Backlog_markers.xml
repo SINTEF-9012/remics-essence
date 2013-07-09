@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="purposes"/>
+<extensionpoint line="12" name="additional"/>
+<extensionpoint line="14" name="participants"/>
+<extensionpoint line="18" name="participant2"/>
+<extensionpoint line="20" name="completionCriteria"/>
+<extensionpoint line="22" name="criteria"/>
+<extensionpoint line="28" name="contributes"/>
+<extensionpoint line="32" name="approaches"/>
+<extensionpoint line="36" name="approach1"/>
+<extensionpoint line="40" name="tips"/>
+<extensionpoint line="42" name="mistakes"/>
+<extensionpoint line="44" name="references"/>
+<extensionpoint line="46" name="readings"/>
+<extensionpoint line="52" name="scriptsAndTools"/>
+</extensionpoints>

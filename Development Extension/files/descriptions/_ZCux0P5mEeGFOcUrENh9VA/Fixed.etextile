@@ -1,0 +1,11 @@
+{element-name:id=default|level=2}
+
+The Bug has been removed from the Software System.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The work required to correct the offending System Elements has been completed.
+* A new Bug-free version of the Software System is available.
+* The absence of the Bug has been verified.

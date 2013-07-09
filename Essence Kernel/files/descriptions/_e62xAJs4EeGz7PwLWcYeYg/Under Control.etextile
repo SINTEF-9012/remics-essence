@@ -1,0 +1,15 @@
+{element-name:id=default|level=2}
+
+The work is going well, risks are under control, and productivity levels are sufficient to achieve a satisfactory result.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Work items are being completed.
+* Unplanned work is under control.
+* Risks are under control as the impact if they occur and the likelihood of them occurring have been reduced to acceptable levels.
+* Estimates are revised to reflect the team’s performance.
+* Measures are available to show progress and velocity.
+* Re-work is under control.
+* Work items are consistently completed on time and within their estimates.

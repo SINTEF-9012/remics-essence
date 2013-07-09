@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentlocalization>
+	<languagecodeentry name="en">
+		<entry name="accountable">accountable</entry>
+		<entry name="Additional completion criteria">Additional completion criteria</entry>
+		<entry name="Additional Contents">Additional content</entry>
+		<entry name="Areas of Concern">Areas of Concern</entry>
+		<entry name="Available activities">Available activities</entry>
+		<entry name="Checkpoints">Checkpoints</entry>
+		<entry name="Checkpoints are not relevant for this element type">Checkpoints are not relevant for this element type</entry>
+		<entry name="Competencies">Competencies</entry>
+		<entry name="Competency Levels">Competency Levels</entry>
+		<entry name="Competency levels are not relevant for this element type">Competency levels are not relevant for this element type</entry>
+		<entry name="Completion Criteria">Completion Criteria</entry>
+		<entry name="Contents">Contents</entry>
+		<entry name="Contents not implemented yet for this element type">Contents not implemented yet for this element type</entry>
+		<entry name="Described by">Described by</entry>
+		<entry name="Essential Contents">Essential content</entry>
+		<entry name="Levels of detail are not relevant for this element type">Levels of detail are not relevant for this element type</entry>
+		<entry name="N/A">N/A</entry>
+		<entry name="No description of the competency level">No description of the competency level</entry>
+		<entry name="No description of the level of detail">No description of the level of detail</entry>
+		<entry name="No description of the state">No description of the state</entry>
+		<entry name="Objectives">Objectives</entry>
+		<entry name="optional">optional</entry>
+		<entry name="or beyond">or beyond</entry>
+		<entry name="Parent">Parent</entry>
+		<entry name="Participants">Participants</entry>
+		<entry name="Patterns">Patterns</entry>
+		<entry name="Practices">Practices</entry>
+		<entry name="References">References</entry>
+		<entry name="Related Alphas">Related alphas</entry>
+		<entry name="Related Patterns">Related Patterns</entry>
+		<entry name="Related pattern spaces">Related pattern spaces</entry>
+		<entry name="Related Work Products">Related work products</entry>
+		<entry name="Required Competencies">Required Competencies</entry>
+		<entry name="States">States</entry>
+		<entry name="States are not relevant for this element type">States are not relevant for this element type</entry>
+		<entry name="Things to Do">Things to Do</entry>
+		<entry name="Things to Work With">Things to Work With</entry>
+		<entry name="This activity contributes to achieving">This activity contributes to achieving</entry>
+		<entry name="This alpha has no states">This alpha has no states</entry>
+		<entry name="This competency has no competency levels">This competency has no competency levels</entry>
+		<entry name="This element has no checkpoints">This element has no checkpoints</entry>
+		<entry name="This work product has no levels of detail">This work product has no levels of detail</entry>
+		<entry name="Undefined project name">Undefined project name</entry>
+		<entry name="Valid Levels">Valid Levels</entry>
+		<entry name="X">X</entry>
+	</languagecodeentry>
+</contentlocalization>

@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+The requirements describe a system that is acceptable to the stakeholders.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The stakeholders accept that the requirements describe an acceptable solution.
+* The rate of change to the agreed requirements is relatively low and under control.
+* The value provided by implementing the requirements is clear.
+* The parts of the opportunity satisfied by the requirements are clear.

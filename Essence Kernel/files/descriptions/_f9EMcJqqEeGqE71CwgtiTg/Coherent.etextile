@@ -1,0 +1,17 @@
+{element-name:id=default|level=2}
+
+The requirements provide a coherent description of the essential characteristics of the new system.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The requirements are captured and shared with the team and the stakeholders. 
+* The origin of the requirements is clear.
+* The rationale behind the requirements is clear.
+* Conflicting requirements are identified and attended to.
+* The requirements communicate the essential characteristics of the system to be delivered.
+* The most important usage scenarios for the system can be explained.
+* The priority of the requirements is clear.
+* The impact of implementing the requirements is understood.
+* The team understands what has to be delivered and agrees to deliver it.

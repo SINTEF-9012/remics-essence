@@ -1,0 +1,13 @@
+{element-name:id=default|level=2}
+
+The System Elements interfaces have been agreed.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Interfaces of the System Element with the other system elements are defined.
+* Interfaces of the System Element with other systems are defined.
+* Buy or build decisions have been made.
+* It has been specified how other components should interact with the component.
+* All externally detectable outcomes are specified including data that is returned and events that may be raised.

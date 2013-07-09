@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+	<area coords="204,56,349,109" name="Opportunity" />
+	<area coords="205,199,349,251" name="Requirements" />
+	<area coords="596,206,740,255" name="Software System" />
+	<area coords="590,58,736,108" name="Stakeholders" />
+	<area coords="599,354,740,404" name="Team" />
+	<area coords="372,464,513,517" name="Way of Working" />
+	<area coords="205,349,347,398" name="Work" />
+	
+	<area coords="60,17,207,170" name="Explore Possibilities" />
+	<area coords="298,16,470,166" name="Understand Stakeholder Needs" />
+	<area coords="514,18,698,170" name="Ensure Stakeholder Satisfaction" />
+	<area coords="771,15,926,146" name="Use the System" />
+	<area coords="15,204,150,364" name="Understand the Requirements" />
+	<area coords="178,207,310,365" name="Shape the System" />
+	<area coords="327,205,463,364" name="Implement the System" />
+	<area coords="488,206,615,365" name="Test the System" />
+	<area coords="641,206,776,366" name="Deploy the System" />
+	<area coords="795,211,921,367" name="Operate the System" />
+	<area coords="66,402,200,561" name="Prepare to do the Work" />
+	<area coords="248,400,381,562" name="Coordinate Activity" />
+	<area coords="413,399,568,535" name="Support the Team" />
+	<area coords="602,402,741,538" name="Track Progress" />
+	<area coords="781,398,919,536" name="Stop the Work" />
+
+	<area coords="104,179,179,261" name="Analysis" />
+	<area coords="247,176,361,260" name="Development" />
+	<area coords="173,330,268,406" name="Leadership" />
+	<area coords="337,325,442,402" name="Management" />
+	<area coords="226,21,360,118" name="Stakeholder Representation" />
+	<area coords="430,179,496,261" name="Testing" />
+
+	<area coords="0,0,892,174" name="Customer" />
+	<area coords="0,183,892,359" name="Solution" />
+	<area coords="0,372,892,545" name="Endeavor" />
+</areas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="brief"/>
+<extensionpoint line="11" name="abilities"/>
+<extensionpoint line="19" name="additional"/>
+<extensionpoint line="21" name="justification"/>
+<extensionpoint line="29" name="skills"/>
+<extensionpoint line="31" name="essentialSkills"/>
+<extensionpoint line="45" name="references"/>
+<extensionpoint line="47" name="readings"/>
+</extensionpoints>

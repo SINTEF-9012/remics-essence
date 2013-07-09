@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+	<area coords="98,43,257,102" name="Opportunity" />
+	<area coords="520,43,680,101" name="Stakeholders" />
+	<area coords="98,212,256,265" name="Need" />
+	<area coords="519,203,681,259" name="Stakeholder Representative" />	
+</areas>

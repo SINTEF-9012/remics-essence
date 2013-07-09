@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+The System Element has been verified and is ready for live use as part of the Software System.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* All the required testing on the System Element is complete.
+* The System Element can interoperate with the other System Elements in the System.
+* The System Element can interoperate with any external systems it communicates with.
+* System Element is available for use in the live environment.

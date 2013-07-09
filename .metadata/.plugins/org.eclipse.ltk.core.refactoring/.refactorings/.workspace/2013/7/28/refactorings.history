@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Getting Started with Scrum&apos; to &apos;Scrum Getting Started&apos;" description="Rename resource &apos;Getting Started with Scrum&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Getting Started with Scrum" name="Scrum Getting Started" stamp="1373295422752" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;Scrum Getting Started&apos;" deleteContents="true" description="Delete resource &apos;Scrum Getting Started&apos;" element1="/Scrum Getting Started" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1373295911440"/>
+</session>

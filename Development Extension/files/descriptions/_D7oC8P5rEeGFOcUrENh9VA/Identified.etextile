@@ -1,0 +1,13 @@
+{element-name:id=default|level=2}
+
+A system element has been identified as part of the Software System and its responsibilities and its position in the Software System are clear.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The need for the System Element is recognized.
+* The System Element's roles and responsibilities in the Software System are clear.
+* Any additional Software Systems that need this System Element are identified.
+* The options about whether to buy or build the System Element have been explored.
+* Any requirements and constraints on the component are known, such as performance requirements or memory utilization constraints.

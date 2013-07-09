@@ -1,0 +1,14 @@
+{element-name:id=default|level=2}
+
+An architecture has been selected that addresses the key technical risks and any applicable organizational constraints.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The criteria to be used when selecting the architecture have been agreed on.
+* Hardware platforms have been identified.
+* Programming languages and technologies to be used have been selected.
+* System boundary is known.
+* Significant decisions about the organization of the system have been made.
+* Buy, build and reuse decisions have been made.

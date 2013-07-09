@@ -1,0 +1,10 @@
+{element-name:id=default|level=2}
+
+Successful implementation of the Requirement Item in the Software System has been confirmed.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Tests have been successfully executed that show that the Requirement Item has been acceptably well implemented.
+* Verification report is stored and available for future reference.

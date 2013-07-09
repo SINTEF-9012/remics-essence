@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+Enough of the requirements have been addressed to satisfy the need for a new system in a way that is acceptable to the stakeholders.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Enough of the requirements are addressed for the resulting system to be acceptable to the stakeholders.
+* The stakeholders accept the requirements as accurately reflecting what the system does and does not do.
+* The set of requirement items implemented provide clear value to the stakeholders.
+* The system implementing the requirements is accepted by the stakeholders as worth making operational.

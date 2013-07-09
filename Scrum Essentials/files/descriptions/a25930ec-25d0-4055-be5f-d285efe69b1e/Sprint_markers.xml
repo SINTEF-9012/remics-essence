@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="brief"/>
+<extensionpoint line="9" name="characteristics"/>
+<extensionpoint line="18" name="justification"/>
+<extensionpoint line="34" name="progressing"/>
+</extensionpoints>

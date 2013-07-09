@@ -1,0 +1,15 @@
+{element-name:id=default|level=2}
+
+The Requirement Item is ready to be implemented.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The Requirement Item is justified as necessary and achievable.
+* The Requirement Item is described clearly, concisely, and consistently.
+* The Requirement Item is described in a verifiable way, and is possible to test.
+* The Requirement Item is prioritized relative to its peers.
+* The Requirement Item does not specify a design or solution.
+* The Requirement Item is ready for development.
+* The impact of implementing the Requirement Item is understood.

@@ -1,0 +1,11 @@
+{element-name:id=default|level=2}
+
+The Requirement Item is implemented in the Software System and demonstrated to work.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The System Elements involved in the implementation of the Requirement Item are known.
+* The development and developer testing of the code that implements the Requirement Item is complete.
+* A build of the Software System implementing the Requirement Item is available for further demonstration and testing.

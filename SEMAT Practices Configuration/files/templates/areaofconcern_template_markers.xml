@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="brief"/>
+<extensionpoint line="9" name="contents"/>
+<extensionpoint line="19" name="content2"/>
+<extensionpoint line="23" name="content3"/>
+<extensionpoint line="27" name="content4"/>
+</extensionpoints>

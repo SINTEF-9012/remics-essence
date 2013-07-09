@@ -1,0 +1,14 @@
+{element-name:id=default|level=2}
+
+An executable version of the system is available that demonstrates the architecture is fit for purpose and supports functional and non-functional testing.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Key architectural characteristics have been demonstrated.
+* The system can be exercised and its performance can be measured.
+* Critical hardware configurations have been demonstrated.
+* Critical interfaces have been demonstrated.
+* The integration with other existing systems has been demonstrated.
+* The relevant stakeholders agree that the demonstrated architecture is appropriate.

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:KernelExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="_yrNXwQCeEeK4de8u3oqPYQ" description="files/descriptions/_yrNXwQCeEeK4de8u3oqPYQ/Task Management Extension.etextile" copyright="2012 Ivar Jacobson International AB, Florida Atlantic University, Fujitsu, Impetus, International Business Machines Corporation, KTH Royal Institute of Technology, Metamaxim Ltd., PEM Systems, Stiftelsen SINTEF, University of Duisburg-Essen.  " version="1.0.2">
+  <alphas name="Team" id="_6r2NYACeEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_6r2NYACeEeK4de8u3oqPYQ/Team.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_IuWcIJtEEeGD_KwXqdXFgA"/>
+    <subAlphas name="Team Member" id="_8vsUcACeEeK4de8u3oqPYQ" description="files/descriptions/_8vsUcACeEeK4de8u3oqPYQ/Team Member.etextile">
+      <stateMachine name="States" id="__IMc4ACeEeK4de8u3oqPYQ">
+        <states name="Wanted" id="__IMc4QCeEeK4de8u3oqPYQ" description="files/descriptions/_8vsUcACeEeK4de8u3oqPYQ/Wanted.etextile" order="10"/>
+        <states name="On Board" id="__IYqIACeEeK4de8u3oqPYQ" description="files/descriptions/_8vsUcACeEeK4de8u3oqPYQ/On Board.etextile" order="20"/>
+        <states name="Contributing" id="__IhNAACeEeK4de8u3oqPYQ" description="files/descriptions/_8vsUcACeEeK4de8u3oqPYQ/Contributing.etextile" order="30"/>
+        <states name="Exiting" id="__ImskACeEeK4de8u3oqPYQ" description="files/descriptions/_8vsUcACeEeK4de8u3oqPYQ/Exiting.etextile" order="40"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_fvo-QAChEeK4de8u3oqPYQ" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_JFAooJtEEeGD_KwXqdXFgA"/>
+      <states name="Seeded" id="_o-iWwAChEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_o-iWwAChEeK4de8u3oqPYQ/Seeded.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_JFAooZtEEeGD_KwXqdXFgA"/>
+      </states>
+      <states name="Formed" id="_zeUvYAChEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_zeUvYAChEeK4de8u3oqPYQ/Formed.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_JFFhIJtEEeGD_KwXqdXFgA"/>
+      </states>
+      <states name="Collaborating" id="_8fpl8AChEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_8fpl8AChEeK4de8u3oqPYQ/Collaborating.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_JFJLgJtEEeGD_KwXqdXFgA"/>
+      </states>
+      <states name="Performing" id="_CBePwACiEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_CBePwACiEeK4de8u3oqPYQ/Performing.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_JFLnwJtEEeGD_KwXqdXFgA"/>
+      </states>
+      <states name="Adjourned" id="_LCkc0ACiEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_LCkc0ACiEeK4de8u3oqPYQ/Adjourned.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_JFOrEJtEEeGD_KwXqdXFgA"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphas name="Work" id="_4neIkACjEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_4neIkACjEeK4de8u3oqPYQ/Work.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_e62xAJs4EeGz7PwLWcYeYg"/>
+    <subAlphas name="Task" id="_5_OlsACjEeK4de8u3oqPYQ" description="files/descriptions/_5_OlsACjEeK4de8u3oqPYQ/Task.etextile">
+      <stateMachine name="States" id="_6aj20ACjEeK4de8u3oqPYQ">
+        <states name="Identified" id="_6aj20QCjEeK4de8u3oqPYQ" description="files/descriptions/_5_OlsACjEeK4de8u3oqPYQ/Identified.etextile" order="10"/>
+        <states name="In Progress" id="_6aoIQACjEeK4de8u3oqPYQ" description="files/descriptions/_5_OlsACjEeK4de8u3oqPYQ/In Progress.etextile" order="20"/>
+        <states name="Done" id="_6arLkACjEeK4de8u3oqPYQ" description="files/descriptions/_5_OlsACjEeK4de8u3oqPYQ/Done.etextile" order="30"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_49ns0AClEeK4de8u3oqPYQ" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_fRNbgJs4EeGz7PwLWcYeYg"/>
+      <states name="Initiated" id="_6JEzUAClEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_6JEzUAClEeK4de8u3oqPYQ/Initiated.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_fRNbgZs4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="Prepared" id="_EI3dQACmEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_EI3dQACmEeK4de8u3oqPYQ/Prepared.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_fRRF4Js4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="Started" id="_QvUAYACmEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_QvUAYACmEeK4de8u3oqPYQ/Started.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_fRTiIJs4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="Under Control" id="_XGbTcACmEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_XGbTcACmEeK4de8u3oqPYQ/Under Control.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_fRWlcJs4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="Concluded" id="_eifcYACmEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_eifcYACmEeK4de8u3oqPYQ/Concluded.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_fRZBsJs4EeGz7PwLWcYeYg"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphas name="Way of Working" id="_2II4AACmEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_2II4AACmEeK4de8u3oqPYQ/Way of Working.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_fv9NAJs4EeGz7PwLWcYeYg"/>
+    <subAlphas name="Practice Adoption" id="_3xcYIACmEeK4de8u3oqPYQ" description="files/descriptions/_3xcYIACmEeK4de8u3oqPYQ/Practice Adoption.etextile">
+      <stateMachine name="States" id="_4qTSwACmEeK4de8u3oqPYQ">
+        <states name="Selected" id="_4qTSwQCmEeK4de8u3oqPYQ" description="files/descriptions/_3xcYIACmEeK4de8u3oqPYQ/Selected.etextile" order="10"/>
+        <states name="Integrated" id="_4q1eQACmEeK4de8u3oqPYQ" description="files/descriptions/_3xcYIACmEeK4de8u3oqPYQ/Integrated.etextile" order="20"/>
+        <states name="In Use" id="_4q_2UACmEeK4de8u3oqPYQ" description="files/descriptions/_3xcYIACmEeK4de8u3oqPYQ/In Use.etextile" order="30"/>
+        <states name="Working Well" id="_4rFV4ACmEeK4de8u3oqPYQ" description="files/descriptions/_3xcYIACmEeK4de8u3oqPYQ/Working Well.etextile" order="40"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_9udeQACoEeK4de8u3oqPYQ" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_grxVAJs4EeGz7PwLWcYeYg"/>
+      <states name="Principles Established" id="_-rypMACoEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_-rypMACoEeK4de8u3oqPYQ/Principles Established.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_grxVAZs4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="Foundation Established" id="__st6sACoEeK4de8u3oqPYQ" extension="true" description="files/descriptions/__st6sACoEeK4de8u3oqPYQ/Foundation Established.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_gsOA8Js4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="In Use" id="_AejAQACpEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_AejAQACpEeK4de8u3oqPYQ/In Use.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_gsREQJs4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="In Place" id="_Bp6nMACpEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_Bp6nMACpEeK4de8u3oqPYQ/In Place.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_gsUHkJs4EeGz7PwLWcYeYg"/>
+      </states>
+      <states name="Working well" id="_D2J1QACpEeK4de8u3oqPYQ" extension="true" description="files/descriptions/_D2J1QACpEeK4de8u3oqPYQ/Working well.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_gsXK4Js4EeGz7PwLWcYeYg"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphaAssociations name="Team Members drive Team" id="_jhZjMACiEeK4de8u3oqPYQ" briefDescription="The progress of the Team Members drives the progress of the Team." role1="_8vsUcACeEeK4de8u3oqPYQ" role2="_6r2NYACeEeK4de8u3oqPYQ"/>
+  <alphaAssociations name="Tasks drive Work" id="_nNCAEAClEeK4de8u3oqPYQ" briefDescription="The progress of the Tasks drives the progress of the Work." role1="_5_OlsACjEeK4de8u3oqPYQ" role2="_4neIkACjEeK4de8u3oqPYQ"/>
+  <alphaAssociations name="Practice Adoptions drive Way of Working" id="_I94HkACqEeK4de8u3oqPYQ" briefDescription="The progress of the Practice Adoptions drive the progress of the Way of Working." role1="_3xcYIACmEeK4de8u3oqPYQ" role2="_2II4AACmEeK4de8u3oqPYQ"/>
+</com.ivarjacobson.essworkng.domainmodel:KernelExtension>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Kernel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="_nMRYkZhOEeGREeW8rfOh7g" description="files/descriptions/_nMRYkZhOEeGREeW8rfOh7g/Essence Kernel.etextile" copyright="2012 Ivar Jacobson International AB, Florida Atlantic University, Fujitsu, Impetus, International Business Machines Corporation, KTH Royal Institute of Technology, Metamaxim Ltd., PEM Systems, Stiftelsen SINTEF, University of Duisburg-Essen.  " version="1.0.3">
+  <alphas name="Stakeholders" id="_Kde1gJqWEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/Stakeholders.etextile" concern="_HmSbYJqVEeGqE71CwgtiTg">
+    <stateMachine name="States" id="_LIm2IJqWEeGqE71CwgtiTg">
+      <states name="Recognized" id="_LIoEQJqWEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/Recognized.etextile" order="10"/>
+      <states name="Represented" id="_LItj0JqWEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/Represented.etextile" order="20"/>
+      <states name="Involved" id="_LIwAEJqWEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/Involved.etextile" order="30"/>
+      <states name="In Agreement" id="_LIzDYJqWEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/In Agreement.etextile" order="40"/>
+      <states name="Satisfied for Deployment" id="_LI1foJqWEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/Satisfied for Deployment.etextile" order="50"/>
+      <states name="Satisfied in Use" id="_S51E0JqYEeGqE71CwgtiTg" description="files/descriptions/_Kde1gJqWEeGqE71CwgtiTg/Satisfied in Use.etextile" order="60"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Opportunity" id="_thrioJqXEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile" concern="_HmSbYJqVEeGqE71CwgtiTg">
+    <stateMachine name="States" id="_uNrF8JqXEeGqE71CwgtiTg">
+      <states name="Identified" id="_uNrF8ZqXEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Identified.etextile" order="10"/>
+      <states name="Solution Needed" id="_uNuJQJqXEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Solution Needed.etextile" order="20"/>
+      <states name="Value Established" id="_uNxMkJqXEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Value Established.etextile" order="30"/>
+      <states name="Viable" id="_uN0P4JqXEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Viable.etextile" order="40"/>
+      <states name="Addressed" id="_uN2sIJqXEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Addressed.etextile" order="50"/>
+      <states name="Benefit Accrued" id="_N_hp0JqfEeGqE71CwgtiTg" description="files/descriptions/_thrioJqXEeGqE71CwgtiTg/Benefit Accrued.etextile" order="60"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Requirements" id="_f9EMcJqqEeGqE71CwgtiTg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Requirements.etextile" concern="_OJ55YJqVEeGqE71CwgtiTg">
+    <stateMachine name="States" id="_gd-hIJqqEeGqE71CwgtiTg">
+      <states name="Conceived" id="_gd-hIZqqEeGqE71CwgtiTg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Conceived.etextile" order="10"/>
+      <states name="Bounded" id="_geCLgJqqEeGqE71CwgtiTg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile" order="20"/>
+      <states name="Coherent" id="_geFO0JqqEeGqE71CwgtiTg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile" order="30"/>
+      <states name="Acceptable" id="_geISIJqqEeGqE71CwgtiTg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile" order="40"/>
+      <states name="Addressed" id="_geLVcJqqEeGqE71CwgtiTg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile" order="50"/>
+      <states name="Fulfilled" id="_S4FqEJs1EeGz7PwLWcYeYg" description="files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Fulfilled.etextile" order="60"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Software System" id="_hIYJAJqqEeGqE71CwgtiTg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile" concern="_OJ55YJqVEeGqE71CwgtiTg" multiplicity="">
+    <stateMachine name="States" id="_h6DdkJqqEeGqE71CwgtiTg">
+      <states name="Architecture Selected" id="_h6DdkZqqEeGqE71CwgtiTg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile" order="10"/>
+      <states name="Demonstrable" id="_h6dtQJqqEeGqE71CwgtiTg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile" order="20"/>
+      <states name="Usable" id="_h6gwkJqqEeGqE71CwgtiTg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile" order="30"/>
+      <states name="Ready" id="_h6jz4JqqEeGqE71CwgtiTg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile" order="40"/>
+      <states name="Operational" id="_h6m3MJqqEeGqE71CwgtiTg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Operational.etextile" order="50"/>
+      <states name="Retired" id="_IxrI0Js3EeGz7PwLWcYeYg" description="files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Retired.etextile" order="60"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Work" id="_e62xAJs4EeGz7PwLWcYeYg" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile" concern="_PK6qcJqVEeGqE71CwgtiTg">
+    <stateMachine name="States" id="_fRNbgJs4EeGz7PwLWcYeYg">
+      <states name="Initiated" id="_fRNbgZs4EeGz7PwLWcYeYg" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Initiated.etextile" order="10"/>
+      <states name="Prepared" id="_fRRF4Js4EeGz7PwLWcYeYg" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Prepared.etextile" order="20"/>
+      <states name="Started" id="_fRTiIJs4EeGz7PwLWcYeYg" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Started.etextile" order="30"/>
+      <states name="Under Control" id="_fRWlcJs4EeGz7PwLWcYeYg" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Under Control.etextile" order="40"/>
+      <states name="Concluded" id="_fRZBsJs4EeGz7PwLWcYeYg" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Concluded.etextile" order="50"/>
+      <states name="Closed" id="_HxbO8JtGEeGD_KwXqdXFgA" description="files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Closed.etextile" order="60"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Way of Working" id="_fv9NAJs4EeGz7PwLWcYeYg" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile" concern="_PK6qcJqVEeGqE71CwgtiTg">
+    <stateMachine name="States" id="_grxVAJs4EeGz7PwLWcYeYg">
+      <states name="Principles Established" id="_grxVAZs4EeGz7PwLWcYeYg" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Principles Established.etextile" order="10"/>
+      <states name="Foundation Established" id="_gsOA8Js4EeGz7PwLWcYeYg" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Foundation Established.etextile" order="20"/>
+      <states name="In Use" id="_gsREQJs4EeGz7PwLWcYeYg" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/In Use.etextile" order="30"/>
+      <states name="In Place" id="_gsUHkJs4EeGz7PwLWcYeYg" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/In Place.etextile" order="40"/>
+      <states name="Working well" id="_gsXK4Js4EeGz7PwLWcYeYg" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Working well.etextile" order="50"/>
+      <states name="Retired" id="_PwAZoJtHEeGD_KwXqdXFgA" description="files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Retired.etextile" order="60"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Team" id="_IuWcIJtEEeGD_KwXqdXFgA" description="files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile" concern="_PK6qcJqVEeGqE71CwgtiTg" multiplicity="">
+    <stateMachine name="States" id="_JFAooJtEEeGD_KwXqdXFgA">
+      <states name="Seeded" id="_JFAooZtEEeGD_KwXqdXFgA" description="files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Seeded.etextile" order="10"/>
+      <states name="Formed" id="_JFFhIJtEEeGD_KwXqdXFgA" description="files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Formed.etextile" order="20"/>
+      <states name="Collaborating" id="_JFJLgJtEEeGD_KwXqdXFgA" description="files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Collaborating.etextile" order="30"/>
+      <states name="Performing" id="_JFLnwJtEEeGD_KwXqdXFgA" description="files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Performing.etextile" order="40"/>
+      <states name="Adjourned" id="_JFOrEJtEEeGD_KwXqdXFgA" description="files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Adjourned.etextile" order="50"/>
+    </stateMachine>
+  </alphas>
+  <areas name="Customer" id="_HmSbYJqVEeGqE71CwgtiTg" description="files/descriptions/_HmSbYJqVEeGqE71CwgtiTg/Customer.etextile" color="#C9FFC9"/>
+  <areas name="Solution" id="_OJ55YJqVEeGqE71CwgtiTg" description="files/descriptions/_OJ55YJqVEeGqE71CwgtiTg/Solution.etextile" color="#FFFF99"/>
+  <areas name="Endeavor" id="_PK6qcJqVEeGqE71CwgtiTg" description="files/descriptions/_PK6qcJqVEeGqE71CwgtiTg/Endeavor.etextile" color="#C6D9F1"/>
+  <activitySpaces name="Explore Possibilities" id="_36RYAJqgEeGqE71CwgtiTg" description="files/descriptions/_36RYAJqgEeGqE71CwgtiTg/Explore Possibilities.etextile" concern="_HmSbYJqVEeGqE71CwgtiTg" order="10">
+    <alphaCriteria name="Stakeholders::Recognized" id="_QHmCMJqiEeGqE71CwgtiTg" reachedState="_LIoEQJqWEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Opportunity::Identified" id="_ZNaXMJqiEeGqE71CwgtiTg" reachedState="_uNrF8ZqXEeGqE71CwgtiTg" order="10"/>
+    <alphaCriteria name="Opportunity::Solution Needed" id="_dqJoQJqiEeGqE71CwgtiTg" reachedState="_uNuJQJqXEeGqE71CwgtiTg" order="20"/>
+    <alphaCriteria name="Opportunity::Value Established" id="_gu_SQJqiEeGqE71CwgtiTg" reachedState="_uNxMkJqXEeGqE71CwgtiTg" order="30"/>
+  </activitySpaces>
+  <activitySpaces name="Understand Stakeholder Needs" id="_cPnfwJqpEeGqE71CwgtiTg" description="files/descriptions/_cPnfwJqpEeGqE71CwgtiTg/Understand Stakeholder Needs.etextile" alphaInput="_thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _Kde1gJqWEeGqE71CwgtiTg" concern="_HmSbYJqVEeGqE71CwgtiTg" order="20">
+    <alphaCriteria name="Stakeholders::Represented" id="_mD6EUJqpEeGqE71CwgtiTg" reachedState="_LItj0JqWEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Stakeholders::Involved" id="_tveB0JqpEeGqE71CwgtiTg" reachedState="_LIwAEJqWEeGqE71CwgtiTg" order="10"/>
+    <alphaCriteria name="Stakeholders::In Agreement" id="_y2JnwJqpEeGqE71CwgtiTg" reachedState="_LIzDYJqWEeGqE71CwgtiTg" order="20"/>
+    <alphaCriteria name="Opportunity::Viable" id="_3729UJqpEeGqE71CwgtiTg" reachedState="_uN0P4JqXEeGqE71CwgtiTg" order="30"/>
+  </activitySpaces>
+  <activitySpaces name="Ensure Stakeholder Satisfaction" id="_zBdqcJqqEeGqE71CwgtiTg" description="files/descriptions/_zBdqcJqqEeGqE71CwgtiTg/Ensure Stakeholder Satisfaction.etextile" alphaInput="_thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _Kde1gJqWEeGqE71CwgtiTg" concern="_HmSbYJqVEeGqE71CwgtiTg" order="30">
+    <alphaCriteria name="Stakeholders::Satisfied for Deployment" id="_8WYycJqqEeGqE71CwgtiTg" reachedState="_LI1foJqWEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Opportunity::Addressed" id="_Ac_bcJqrEeGqE71CwgtiTg" reachedState="_uN2sIJqXEeGqE71CwgtiTg"/>
+  </activitySpaces>
+  <activitySpaces name="Use the System" id="_RKVigJqrEeGqE71CwgtiTg" description="files/descriptions/_RKVigJqrEeGqE71CwgtiTg/Use the System.etextile" alphaInput="_thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _Kde1gJqWEeGqE71CwgtiTg" concern="_HmSbYJqVEeGqE71CwgtiTg" order="40">
+    <alphaCriteria name="Stakeholders::Satisfied in Use" id="_czf-AJqrEeGqE71CwgtiTg" reachedState="_S51E0JqYEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Opportunity::Benefit Accrued" id="_gUf_kJqrEeGqE71CwgtiTg" reachedState="_N_hp0JqfEeGqE71CwgtiTg"/>
+  </activitySpaces>
+  <activitySpaces name="Understand the Requirements" id="_3zG5cJs3EeGz7PwLWcYeYg" description="files/descriptions/_3zG5cJs3EeGz7PwLWcYeYg/Understand the Requirements.etextile" alphaInput="_thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _Kde1gJqWEeGqE71CwgtiTg _fv9NAJs4EeGz7PwLWcYeYg _e62xAJs4EeGz7PwLWcYeYg" concern="_OJ55YJqVEeGqE71CwgtiTg" order="50">
+    <alphaCriteria name="Requirements::Conceived" id="_LOBaAJs4EeGz7PwLWcYeYg" reachedState="_gd-hIZqqEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Requirements::Bounded" id="_O-urgJs4EeGz7PwLWcYeYg" reachedState="_geCLgJqqEeGqE71CwgtiTg" order="10"/>
+    <alphaCriteria name="Requirements::Coherent" id="_SsJYcJs4EeGz7PwLWcYeYg" reachedState="_geFO0JqqEeGqE71CwgtiTg" order="20"/>
+  </activitySpaces>
+  <activitySpaces name="Shape the System" id="_RW05YJs6EeGD_KwXqdXFgA" description="files/descriptions/_RW05YJs6EeGD_KwXqdXFgA/Shape the System.etextile" alphaInput="_thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _Kde1gJqWEeGqE71CwgtiTg _fv9NAJs4EeGz7PwLWcYeYg _e62xAJs4EeGz7PwLWcYeYg" concern="_OJ55YJqVEeGqE71CwgtiTg" order="60">
+    <alphaCriteria name="Requirements::Sufficient" id="_dyV-4Js6EeGD_KwXqdXFgA" reachedState="_geISIJqqEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Software System::Architecture Selected" id="_j247QJs6EeGD_KwXqdXFgA" reachedState="_h6DdkZqqEeGqE71CwgtiTg"/>
+  </activitySpaces>
+  <activitySpaces name="Implement the System" id="_udE20Js6EeGD_KwXqdXFgA" description="files/descriptions/_udE20Js6EeGD_KwXqdXFgA/Implement the System.etextile" alphaInput="_f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _fv9NAJs4EeGz7PwLWcYeYg" concern="_OJ55YJqVEeGqE71CwgtiTg" order="70">
+    <alphaCriteria name="Software System::Demonstrable" id="_3MjIYJs6EeGD_KwXqdXFgA" reachedState="_h6dtQJqqEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Software System::Usable" id="_64hq4Js6EeGD_KwXqdXFgA" reachedState="_h6gwkJqqEeGqE71CwgtiTg" order="10"/>
+    <alphaCriteria name="Software System::Ready" id="_AWtx4Js7EeGD_KwXqdXFgA" reachedState="_h6jz4JqqEeGqE71CwgtiTg" order="20"/>
+  </activitySpaces>
+  <activitySpaces name="Test the System" id="_PUctwJtBEeGD_KwXqdXFgA" description="files/descriptions/_PUctwJtBEeGD_KwXqdXFgA/Test the System.etextile" alphaInput="_f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _fv9NAJs4EeGz7PwLWcYeYg" concern="_OJ55YJqVEeGqE71CwgtiTg" order="80">
+    <alphaCriteria name="Requirements::Sufficient" id="_WZ8w0JtBEeGD_KwXqdXFgA" reachedState="_geISIJqqEeGqE71CwgtiTg"/>
+    <alphaCriteria name="Requirements::Fulfilled" id="_aCZeMJtBEeGD_KwXqdXFgA" reachedState="_S4FqEJs1EeGz7PwLWcYeYg" order="10"/>
+    <alphaCriteria name="Software System:: Demonstrable" id="_dTYGwJtBEeGD_KwXqdXFgA" reachedState="_h6dtQJqqEeGqE71CwgtiTg" order="20"/>
+    <alphaCriteria name="Software System::Usable" id="_hV3EwJtBEeGD_KwXqdXFgA" reachedState="_h6gwkJqqEeGqE71CwgtiTg" order="30"/>
+    <alphaCriteria name="Software System::Ready" id="_lGfdwJtBEeGD_KwXqdXFgA" reachedState="_h6jz4JqqEeGqE71CwgtiTg" order="40"/>
+  </activitySpaces>
+  <activitySpaces name="Deploy the System" id="_6coU4JtBEeGD_KwXqdXFgA" description="files/descriptions/_6coU4JtBEeGD_KwXqdXFgA/Deploy the System.etextile" alphaInput="_Kde1gJqWEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _fv9NAJs4EeGz7PwLWcYeYg" concern="_OJ55YJqVEeGqE71CwgtiTg" order="90">
+    <alphaCriteria name="Software System::Operational" id="_DAfMUJtCEeGD_KwXqdXFgA" reachedState="_h6m3MJqqEeGqE71CwgtiTg"/>
+  </activitySpaces>
+  <activitySpaces name="Operate the System" id="_QHuIUJtCEeGD_KwXqdXFgA" description="files/descriptions/_QHuIUJtCEeGD_KwXqdXFgA/Operate the System.etextile" alphaInput="_Kde1gJqWEeGqE71CwgtiTg _thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg _hIYJAJqqEeGqE71CwgtiTg _fv9NAJs4EeGz7PwLWcYeYg" concern="_OJ55YJqVEeGqE71CwgtiTg" order="100">
+    <alphaCriteria name="Software System::Retired" id="_VLI-4JtCEeGD_KwXqdXFgA" reachedState="_IxrI0Js3EeGz7PwLWcYeYg"/>
+  </activitySpaces>
+  <activitySpaces name="Prepare to do the Work" id="_62RugJtCEeGD_KwXqdXFgA" description="files/descriptions/_62RugJtCEeGD_KwXqdXFgA/Prepare to do the Work.etextile" alphaInput="_Kde1gJqWEeGqE71CwgtiTg _thrioJqXEeGqE71CwgtiTg _f9EMcJqqEeGqE71CwgtiTg" concern="_PK6qcJqVEeGqE71CwgtiTg" order="110">
+    <alphaCriteria name="Team::Seeded" id="_-DgQwJtIEeGD_KwXqdXFgA" reachedState="_JFAooZtEEeGD_KwXqdXFgA"/>
+    <alphaCriteria name="Way of Working::Principles Established" id="_B9mu0JtJEeGD_KwXqdXFgA" reachedState="_grxVAZs4EeGz7PwLWcYeYg" order="10"/>
+    <alphaCriteria name="Way of Working:: Foundation Established" id="_FIjA0JtJEeGD_KwXqdXFgA" reachedState="_gsOA8Js4EeGz7PwLWcYeYg" order="20"/>
+    <alphaCriteria name="Work::Initiated" id="_Ihc2UJtJEeGD_KwXqdXFgA" reachedState="_fRNbgZs4EeGz7PwLWcYeYg" order="30"/>
+    <alphaCriteria name="Work::Prepared" id="_KlmfYJtJEeGD_KwXqdXFgA" reachedState="_fRRF4Js4EeGz7PwLWcYeYg" order="40"/>
+  </activitySpaces>
+  <activitySpaces name="Coordinate Activity" id="_AstWYJtDEeGD_KwXqdXFgA" description="files/descriptions/_AstWYJtDEeGD_KwXqdXFgA/Coordinate Activity.etextile" alphaInput="_f9EMcJqqEeGqE71CwgtiTg _IuWcIJtEEeGD_KwXqdXFgA _fv9NAJs4EeGz7PwLWcYeYg _e62xAJs4EeGz7PwLWcYeYg" concern="_PK6qcJqVEeGqE71CwgtiTg" order="120">
+    <alphaCriteria name="Team::Formed" id="_kKjgUJtJEeGD_KwXqdXFgA" reachedState="_JFFhIJtEEeGD_KwXqdXFgA"/>
+    <alphaCriteria name="Work::Started" id="_nAX24JtJEeGD_KwXqdXFgA" reachedState="_fRTiIJs4EeGz7PwLWcYeYg" order="10"/>
+    <alphaCriteria name="Work::Under Control" id="_pzSDYJtJEeGD_KwXqdXFgA" reachedState="_fRWlcJs4EeGz7PwLWcYeYg" order="20"/>
+  </activitySpaces>
+  <activitySpaces name="Support the Team" id="_Fjdp8JtDEeGD_KwXqdXFgA" description="files/descriptions/_Fjdp8JtDEeGD_KwXqdXFgA/Support the Team.etextile" alphaInput="_IuWcIJtEEeGD_KwXqdXFgA _e62xAJs4EeGz7PwLWcYeYg _fv9NAJs4EeGz7PwLWcYeYg" concern="_PK6qcJqVEeGqE71CwgtiTg" order="130">
+    <alphaCriteria name="Team::Collaborating" id="_3kB2cJtJEeGD_KwXqdXFgA" reachedState="_JFJLgJtEEeGD_KwXqdXFgA"/>
+    <alphaCriteria name="Way of Working::In Use" id="_6T4u8JtJEeGD_KwXqdXFgA" reachedState="_gsREQJs4EeGz7PwLWcYeYg" order="10"/>
+    <alphaCriteria name="Way of Working::In Place" id="_9N96cJtJEeGD_KwXqdXFgA" reachedState="_gsUHkJs4EeGz7PwLWcYeYg" order="20"/>
+  </activitySpaces>
+  <activitySpaces name="Track Progress" id="_KzsNcJtDEeGD_KwXqdXFgA" description="files/descriptions/_KzsNcJtDEeGD_KwXqdXFgA/Track Progress.etextile" alphaInput="_f9EMcJqqEeGqE71CwgtiTg _IuWcIJtEEeGD_KwXqdXFgA _e62xAJs4EeGz7PwLWcYeYg _fv9NAJs4EeGz7PwLWcYeYg" concern="_PK6qcJqVEeGqE71CwgtiTg" order="140">
+    <alphaCriteria name="Team::Performing" id="_K5JRAJtKEeGD_KwXqdXFgA" reachedState="_JFLnwJtEEeGD_KwXqdXFgA"/>
+    <alphaCriteria name="Way of Working::Working Well" id="_NkjuYJtKEeGD_KwXqdXFgA" reachedState="_gsXK4Js4EeGz7PwLWcYeYg" order="10"/>
+    <alphaCriteria name="Work::Under Control" id="_QpthcJtKEeGD_KwXqdXFgA" reachedState="_fRWlcJs4EeGz7PwLWcYeYg" order="20"/>
+    <alphaCriteria name="Work::Concluded" id="_T3P0cJtKEeGD_KwXqdXFgA" reachedState="_fRZBsJs4EeGz7PwLWcYeYg" order="30"/>
+  </activitySpaces>
+  <activitySpaces name="Stop the Work" id="_QKyN8JtDEeGD_KwXqdXFgA" description="files/descriptions/_QKyN8JtDEeGD_KwXqdXFgA/Stop the Work.etextile" alphaInput="_f9EMcJqqEeGqE71CwgtiTg _IuWcIJtEEeGD_KwXqdXFgA _fv9NAJs4EeGz7PwLWcYeYg _e62xAJs4EeGz7PwLWcYeYg" concern="_PK6qcJqVEeGqE71CwgtiTg" order="150">
+    <alphaCriteria name="Team::Adjourned" id="_jyyEEJtKEeGD_KwXqdXFgA" reachedState="_JFOrEJtEEeGD_KwXqdXFgA"/>
+    <alphaCriteria name="Way of Working::Retired" id="_n1LigJtKEeGD_KwXqdXFgA" reachedState="_PwAZoJtHEeGD_KwXqdXFgA"/>
+    <alphaCriteria name="Work::Closed" id="_uwERAJtKEeGD_KwXqdXFgA" reachedState="_HxbO8JtGEeGD_KwXqdXFgA"/>
+  </activitySpaces>
+  <alphaAssociations name="Stakeholders provide Opportunity" id="_1ANJsJqXEeGqE71CwgtiTg" role1="_Kde1gJqWEeGqE71CwgtiTg" role2="_thrioJqXEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Stakeholders support Team" id="_56OhsJtdEeG3PcjNvrNQFA" role1="_Kde1gJqWEeGqE71CwgtiTg" role2="_IuWcIJtEEeGD_KwXqdXFgA"/>
+  <alphaAssociations name="Stakeholders demand Requirements" id="_GuLVUJteEeG_HtWFwkaSzA" role1="_Kde1gJqWEeGqE71CwgtiTg" role2="_f9EMcJqqEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Stakeholders use and consume Software System" id="_OC-_sJteEeG_HtWFwkaSzA" role1="_Kde1gJqWEeGqE71CwgtiTg" role2="_hIYJAJqqEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Opportunity focuses Requirements" id="_XgZVUJteEeG_HtWFwkaSzA" role1="_thrioJqXEeGqE71CwgtiTg" role2="_f9EMcJqqEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Requirements scope and constrain the Work" id="_fwQ5wJteEeG_HtWFwkaSzA" role1="_f9EMcJqqEeGqE71CwgtiTg" role2="_e62xAJs4EeGz7PwLWcYeYg"/>
+  <alphaAssociations name="Software System helps to address Opportunity" id="_l-6NUJteEeG_HtWFwkaSzA" role1="_hIYJAJqqEeGqE71CwgtiTg" role2="_thrioJqXEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Software Systems fulfills Requirements" id="_sBZUMJteEeG_HtWFwkaSzA" role1="_hIYJAJqqEeGqE71CwgtiTg" role2="_f9EMcJqqEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Team produces Software System" id="_yOw1YJteEeG_HtWFwkaSzA" role1="_IuWcIJtEEeGD_KwXqdXFgA" role2="_hIYJAJqqEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Team performs and plans Work" id="_3Z4PYJteEeG_HtWFwkaSzA" role1="_IuWcIJtEEeGD_KwXqdXFgA" role2="_e62xAJs4EeGz7PwLWcYeYg"/>
+  <alphaAssociations name="Team applies Way of Working" id="_8txK4JteEeG_HtWFwkaSzA" role1="_IuWcIJtEEeGD_KwXqdXFgA" role2="_fv9NAJs4EeGz7PwLWcYeYg"/>
+  <alphaAssociations name="Work updates and changes Software System" id="_Cm9L0JtfEeG_HtWFwkaSzA" role1="_e62xAJs4EeGz7PwLWcYeYg" role2="_hIYJAJqqEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Work set up to address Opportunity" id="_IDno0JtfEeG_HtWFwkaSzA" role1="_e62xAJs4EeGz7PwLWcYeYg" role2="_thrioJqXEeGqE71CwgtiTg"/>
+  <alphaAssociations name="Way of Working guides Work" id="_Mx1rcJtfEeG_HtWFwkaSzA" role1="_fv9NAJs4EeGz7PwLWcYeYg" role2="_e62xAJs4EeGz7PwLWcYeYg"/>
+  <competencies name="Stakeholder Representation" id="fb9cf136-d669-4b72-b7c5-0b61e1ed0004" description="files/descriptions/fb9cf136-d669-4b72-b7c5-0b61e1ed0004/Stakeholder Representation.etextile" concern="_HmSbYJqVEeGqE71CwgtiTg">
+    <competencyLevels name="Adapts" id="1c0c45a1-d86f-46a7-8215-6264a8ba1526" description="files/descriptions/fb9cf136-d669-4b72-b7c5-0b61e1ed0004/Adapts.etextile" order="10"/>
+    <competencyLevels name="Masters" id="ff0814ba-b876-482d-ab4c-6b1c68771207" description="files/descriptions/fb9cf136-d669-4b72-b7c5-0b61e1ed0004/Masters.etextile" order="20"/>
+    <competencyLevels name="Applies" id="8120c1e9-d60d-42e9-8996-7d67b584d54c" description="files/descriptions/fb9cf136-d669-4b72-b7c5-0b61e1ed0004/Applies.etextile" order="30"/>
+    <competencyLevels name="Assists" id="a709d7a6-0798-40cc-8887-e3557e0fa2f7" description="files/descriptions/fb9cf136-d669-4b72-b7c5-0b61e1ed0004/Assists.etextile" order="40"/>
+    <competencyLevels name="Innovates" id="e173be7a-da2e-4c38-9f7b-bc497f6be92c" description="files/descriptions/fb9cf136-d669-4b72-b7c5-0b61e1ed0004/Innovates.etextile" order="5"/>
+  </competencies>
+  <competencies name="Analysis" id="e51f0935-c77d-4b89-a9aa-afab0d83a4f3" description="files/descriptions/e51f0935-c77d-4b89-a9aa-afab0d83a4f3/Analysis.etextile" concern="_OJ55YJqVEeGqE71CwgtiTg">
+    <competencyLevels name="Adapts" id="048249b3-4006-4650-b05c-85413e662841" description="files/descriptions/e51f0935-c77d-4b89-a9aa-afab0d83a4f3/Adapts.etextile" order="10"/>
+    <competencyLevels name="Masters" id="033fbdf5-f65f-433f-93fd-8e389aeeae8f" description="files/descriptions/e51f0935-c77d-4b89-a9aa-afab0d83a4f3/Masters.etextile" order="20"/>
+    <competencyLevels name="Applies" id="f4335581-4c21-4bd0-bdf2-b174606769ae" description="files/descriptions/e51f0935-c77d-4b89-a9aa-afab0d83a4f3/Applies.etextile" order="30"/>
+    <competencyLevels name="Assists" id="3244225e-c653-41f8-9d7c-08f10fa95e1b" description="files/descriptions/e51f0935-c77d-4b89-a9aa-afab0d83a4f3/Assists.etextile" order="40"/>
+    <competencyLevels name="Innovates" id="0fe48058-0b1a-42f1-ae0a-73274fe8f2af" description="files/descriptions/e51f0935-c77d-4b89-a9aa-afab0d83a4f3/Innovates.etextile" order="5"/>
+  </competencies>
+  <competencies name="Development" id="265e7c5b-5cdb-4dbf-846b-e2d45278b785" description="files/descriptions/265e7c5b-5cdb-4dbf-846b-e2d45278b785/Development.etextile" concern="_OJ55YJqVEeGqE71CwgtiTg">
+    <competencyLevels name="Adapts" id="5c333292-6829-4e3b-934d-dfc161cd50c2" description="files/descriptions/265e7c5b-5cdb-4dbf-846b-e2d45278b785/Adapts.etextile" order="10"/>
+    <competencyLevels name="Masters" id="7e290613-c4b0-4250-959e-6731a1b7d93e" description="files/descriptions/265e7c5b-5cdb-4dbf-846b-e2d45278b785/Masters.etextile" order="20"/>
+    <competencyLevels name="Applies" id="52bec1a0-cb74-442d-894a-c8d0c6a27014" description="files/descriptions/265e7c5b-5cdb-4dbf-846b-e2d45278b785/Applies.etextile" order="30"/>
+    <competencyLevels name="Assists" id="99990d91-f959-4199-bc07-aa169d6abd73" description="files/descriptions/265e7c5b-5cdb-4dbf-846b-e2d45278b785/Assists.etextile" order="40"/>
+    <competencyLevels name="Innovates" id="ad2e1e6f-eb07-40c6-86ec-1792e50c2aca" description="files/descriptions/265e7c5b-5cdb-4dbf-846b-e2d45278b785/Innovates.etextile" order="5"/>
+  </competencies>
+  <competencies name="Testing" id="835bbd82-6867-48a4-8186-86fc839afd17" description="files/descriptions/835bbd82-6867-48a4-8186-86fc839afd17/Testing.etextile" concern="_OJ55YJqVEeGqE71CwgtiTg">
+    <competencyLevels name="Adapts" id="9ce224bd-8897-482c-a781-95f7ac3775cb" description="files/descriptions/835bbd82-6867-48a4-8186-86fc839afd17/Adapts.etextile" order="10"/>
+    <competencyLevels name="Masters" id="effdd478-f2e4-4961-80eb-fc9606d9cfd0" description="files/descriptions/835bbd82-6867-48a4-8186-86fc839afd17/Masters.etextile" order="20"/>
+    <competencyLevels name="Applies" id="7afadd53-c14b-4a8e-a691-c9c583084c24" description="files/descriptions/835bbd82-6867-48a4-8186-86fc839afd17/Applies.etextile" order="30"/>
+    <competencyLevels name="Assists" id="659c7b75-7317-48b8-b818-52015ae2ee1c" description="files/descriptions/835bbd82-6867-48a4-8186-86fc839afd17/Assists.etextile" order="40"/>
+    <competencyLevels name="Innovates" id="bbe92f5c-9765-42a6-a9e4-556eff45ffaa" description="files/descriptions/835bbd82-6867-48a4-8186-86fc839afd17/Innovates.etextile" order="5"/>
+  </competencies>
+  <competencies name="Leadership" id="cff34f1b-cc2d-499f-9806-842649feca07" description="files/descriptions/cff34f1b-cc2d-499f-9806-842649feca07/Leadership.etextile" concern="_PK6qcJqVEeGqE71CwgtiTg">
+    <competencyLevels name="Adapts" id="0c88b931-f3d9-4680-be18-0c8b205f2369" description="files/descriptions/cff34f1b-cc2d-499f-9806-842649feca07/Adapts.etextile" order="10"/>
+    <competencyLevels name="Masters" id="23378caa-395c-49b7-bfe8-14183fa5dd5f" description="files/descriptions/cff34f1b-cc2d-499f-9806-842649feca07/Masters.etextile" order="20"/>
+    <competencyLevels name="Applies" id="1c1f727d-a3b3-4a6c-be90-9ef7b58c4f2c" description="files/descriptions/cff34f1b-cc2d-499f-9806-842649feca07/Applies.etextile" order="30"/>
+    <competencyLevels name="Assists" id="369b9f44-1e2c-4078-9b90-52f041837144" description="files/descriptions/cff34f1b-cc2d-499f-9806-842649feca07/Assists.etextile" order="40"/>
+    <competencyLevels name="Innovates" id="32e08b8e-8d42-46fe-b61e-45194f44a1c5" description="files/descriptions/cff34f1b-cc2d-499f-9806-842649feca07/Innovates.etextile" order="5"/>
+  </competencies>
+  <competencies name="Management" id="9cd108c1-60c0-44a7-87e7-6fbf476ac1b4" description="files/descriptions/9cd108c1-60c0-44a7-87e7-6fbf476ac1b4/Management.etextile" concern="_PK6qcJqVEeGqE71CwgtiTg">
+    <competencyLevels name="Adapts" id="8a17b720-3ad6-4ac6-ac80-225bec48d1d5" description="files/descriptions/9cd108c1-60c0-44a7-87e7-6fbf476ac1b4/Adapts.etextile" order="10"/>
+    <competencyLevels name="Masters" id="2659ba0a-6af8-420b-9cdc-f58cb999ef49" description="files/descriptions/9cd108c1-60c0-44a7-87e7-6fbf476ac1b4/Masters.etextile" order="20"/>
+    <competencyLevels name="Applies" id="2b488dbe-6afc-4788-bc46-c07de0713587" description="files/descriptions/9cd108c1-60c0-44a7-87e7-6fbf476ac1b4/Applies.etextile" order="30"/>
+    <competencyLevels name="Assists" id="7c095374-8d28-4b23-a05a-889d7e647531" description="files/descriptions/9cd108c1-60c0-44a7-87e7-6fbf476ac1b4/Assists.etextile" order="40"/>
+    <competencyLevels name="Innovates" id="ab7e85d6-abcc-4bf0-9982-9ab0781c987a" description="files/descriptions/9cd108c1-60c0-44a7-87e7-6fbf476ac1b4/Innovates.etextile" order="5"/>
+  </competencies>
+</com.ivarjacobson.essworkng.domainmodel:Kernel>

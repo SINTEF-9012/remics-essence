@@ -1,0 +1,10 @@
+{element-name:id=default|level=2}
+
+The removal of the Bug from the Software System has been confirmed.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Tests, reviews or other appropriate activities have been undertaken to ensure that the Bug has been corrected or shown not to actually be an error, fault or flaw.
+* The Bug management has been finalized. 

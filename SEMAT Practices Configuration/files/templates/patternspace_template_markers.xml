@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="introduction"/>
+<extensionpoint line="7" name="brief"/>
+<extensionpoint line="9" name="purposes"/>
+<extensionpoint line="15" name="essentialQualities"/>
+<extensionpoint line="22" name="application"/>
+<extensionpoint line="26" name="selectionCriteria"/>
+<extensionpoint line="32" name="tips"/>
+<extensionpoint line="36" name="references"/>
+<extensionpoint line="38" name="readings"/>
+<extensionpoint line="44" name="scriptsAndTools"/>
+<extensionpoint line="48" name="relatedPatternSpaces"/>
+</extensionpoints>

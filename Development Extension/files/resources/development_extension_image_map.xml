@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+	<area coords="107,60,265,116" name="Requirements" />
+	<area coords="112,216,271,275" name="Requirement Item" />
+	<area coords="532,64,693,120" name="Software System" />
+	<area coords="439,217,601,270" name="System Element" />	
+	<area coords="670,219,831,272" name="Bug" />	
+</areas>

@@ -1,0 +1,11 @@
+{element-name:id=default|level=2}
+
+The system is in use in a live environment.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The system has been made available to the stakeholders intended to use it.
+* At least one example of the system is fully operational.
+* The system is fully supported to the agreed service levels.

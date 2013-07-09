@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="preamble"/>
+<extensionpoint line="9" name="introduction"/>
+<extensionpoint line="11" name="brief"/>
+<extensionpoint line="13" name="description"/>
+<extensionpoint line="29" name="relatedPatterns"/>
+</extensionpoints>

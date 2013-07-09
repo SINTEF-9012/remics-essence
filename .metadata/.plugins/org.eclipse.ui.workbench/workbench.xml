@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="800" maximized="true" width="1000" x="175" y="175">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<coolbarLayout>
+<coolItem id="save" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="edit" itemType="typeToolBarContribution" x="161" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.annotationNavigation" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.navigation" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1373295881726" focus="true" label="Workspace - Practice Workbench">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</editorArea>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="com.ivarjacobson.essworkng.author.explorer.view" partName="Practice Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.ivarjacobson.essworkng.wikitexteditor.ElementView" partName="Element View">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.ivarjacobson.essworkng.author.explorer.view" activePerspective="com.ivarjacobson.essworkng.author.perspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.ivarjacobson.essworkng.author.Perspective" id="com.ivarjacobson.essworkng.author.perspective" label="Practice Workbench"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<show_view_action id="com.ivarjacobson.essworkng.author.explorer.view"/>
+<show_view_action id="com.ivarjacobson.essworkng.wikitexteditor.ElementView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<new_wizard_action id="com.ivarjacobson.essworkng.author.newWizard.project.practice"/>
+<new_wizard_action id="com.ivarjacobson.essworkng.author.newWizard.project"/>
+<perspective_action id="com.ivarjacobson.essworkng.author.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.ivarjacobson.essworkng.author.explorer.view"/>
+<view id="com.ivarjacobson.essworkng.wikitexteditor.ElementView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.topleft">
+<folder activePageID="com.ivarjacobson.essworkng.author.explorer.view" appearance="2" expanded="2">
+<page content="com.ivarjacobson.essworkng.author.explorer.view" label="Practice Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6b93c5" ratio="0.75" ratioLeft="732" ratioRight="244" relationship="2" relative="com.ivarjacobson.essworkng.author.perspective.topleft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.17705604" ratioLeft="338" ratioRight="1571" relationship="2" relative="com.ivarjacobson.essworkng.author.perspective.topleft"/>
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.bottom" ratio="0.47427502" ratioLeft="507" ratioRight="562" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.AllMarkersView" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.middle" ratio="0.6692607" ratioLeft="344" ratioRight="170" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.right" ratio="0.75" ratioLeft="513" ratioRight="171" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.bottomleft" ratio="0.71748877" ratioLeft="480" ratioRight="189" relationship="4" relative="com.ivarjacobson.essworkng.author.perspective.topleft">
+<folder activePageID="com.ivarjacobson.essworkng.wikitexteditor.ElementView" appearance="2" expanded="2">
+<page content="com.ivarjacobson.essworkng.wikitexteditor.ElementView" label="Element View"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory/>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Scrum Getting Started.etextile" tooltip="Scrum Getting Started/files/descriptions/f2127cb5-8267-44e1-9d3d-77beaaba38cb/Scrum Getting Started.etextile">
+<persistable path="/Scrum Getting Started/files/descriptions/f2127cb5-8267-44e1-9d3d-77beaaba38cb/Scrum Getting Started.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="project.properties" tooltip="Scrum Essentials/files/project.properties">
+<persistable path="/Scrum Essentials/files/project.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="project.properties" tooltip="Scrum Getting Started/files/project.properties">
+<persistable path="/Scrum Getting Started/files/project.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Scrum Essentials.etextile" tooltip="Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Getting Started with Scrum.etextile" tooltip="Scrum Getting Started/files/descriptions/5ca87a99-a6a3-4699-9c9f-8bb5829e2e77/Getting Started with Scrum.etextile">
+<persistable path="/Scrum Getting Started/files/descriptions/5ca87a99-a6a3-4699-9c9f-8bb5829e2e77/Getting Started with Scrum.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Planned.etextile" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Planned.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Planned.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Concluded.etextile" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Concluded.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Concluded.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Closed.etextile" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Product Owner.etextile" tooltip="Scrum Essentials/files/descriptions/53631e17-fa87-4e3f-b366-252a96d872e4/Product Owner.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/53631e17-fa87-4e3f-b366-252a96d872e4/Product Owner.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Sprint Planning Meeting.etextile" tooltip="Scrum Essentials/files/descriptions/dcbd3bdc-da37-4155-9474-0939a9fb4e20/Sprint Planning Meeting.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/dcbd3bdc-da37-4155-9474-0939a9fb4e20/Sprint Planning Meeting.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Sprint.etextile" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Product Backlog.etextile" tooltip="Scrum Essentials/files/descriptions/3ef5a087-8423-453a-9ede-d8263fd5f9e2/Product Backlog.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/3ef5a087-8423-453a-9ede-d8263fd5f9e2/Product Backlog.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="LevelOfDetail4.etextile" tooltip="Scrum Essentials/files/descriptions/3ef5a087-8423-453a-9ede-d8263fd5f9e2/LevelOfDetail4.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/3ef5a087-8423-453a-9ede-d8263fd5f9e2/LevelOfDetail4.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Identify Actors.etextile" tooltip="REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Scrum Roles.etextile" tooltip="Scrum Essentials/files/descriptions/2f39cd1f-0935-4e50-8bc8-25a36f1a73c3/Scrum Roles.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/2f39cd1f-0935-4e50-8bc8-25a36f1a73c3/Scrum Roles.etextile"/>
+</file>
+</mruList>
+</workbench>

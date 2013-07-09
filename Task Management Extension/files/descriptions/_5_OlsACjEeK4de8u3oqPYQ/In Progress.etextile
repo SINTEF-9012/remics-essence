@@ -1,0 +1,12 @@
+{element-name:id=default|level=2}
+
+The task  has been accepted by one or more teammates and work has started.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* A team member has accepted and is progressing the task.
+* The progress of the task is monitored.
+* A target completion date for the Task has been agreed. 
+* The amount of effort required to complete the task is being tracked.

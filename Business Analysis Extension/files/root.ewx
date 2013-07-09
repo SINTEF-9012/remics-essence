@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:KernelExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="_yxAK0f46EeGN3br70l1xKg" description="files/descriptions/_yxAK0f46EeGN3br70l1xKg/Business Analysis Extension.etextile" copyright="2012 Ivar Jacobson International AB, Florida Atlantic University, Fujitsu, Impetus, International Business Machines Corporation, KTH Royal Institute of Technology, Metamaxim Ltd., PEM Systems, Stiftelsen SINTEF, University of Duisburg-Essen.  " version="1.0.2">
+  <alphas name="Stakeholders" id="_BREskP48EeGN3br70l1xKg" extension="true" description="files/descriptions/_BREskP48EeGN3br70l1xKg/Stakeholders.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_Kde1gJqWEeGqE71CwgtiTg"/>
+    <subAlphas name="Stakeholder Representative" id="_H9_3kP48EeGN3br70l1xKg" description="files/descriptions/_H9_3kP48EeGN3br70l1xKg/Stakeholder Representative.etextile">
+      <stateMachine name="States" id="_JILLsP48EeGN3br70l1xKg">
+        <states name="Identified" id="_JILywP48EeGN3br70l1xKg" description="files/descriptions/_H9_3kP48EeGN3br70l1xKg/Identified.etextile" order="10"/>
+        <states name="Empowered" id="_JIQrQP48EeGN3br70l1xKg" description="files/descriptions/_H9_3kP48EeGN3br70l1xKg/Empowered.etextile" order="20"/>
+        <states name="Engaged" id="_JIUVoP48EeGN3br70l1xKg" description="files/descriptions/_H9_3kP48EeGN3br70l1xKg/Engaged.etextile" order="30"/>
+        <states name="Satisfied" id="_JIXY8P48EeGN3br70l1xKg" description="files/descriptions/_H9_3kP48EeGN3br70l1xKg/Satisfied.etextile" order="40"/>
+        <states name="Delighted" id="_JIacQP48EeGN3br70l1xKg" description="files/descriptions/_H9_3kP48EeGN3br70l1xKg/Delighted.etextile" order="50"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_RMZHgP5BEeGN3br70l1xKg" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_LIm2IJqWEeGqE71CwgtiTg"/>
+      <states name="Recognized" id="_TVKK0P5BEeGN3br70l1xKg" extension="true" description="files/descriptions/_TVKK0P5BEeGN3br70l1xKg/Recognized.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_LIoEQJqWEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Represented" id="_boZMUP5BEeGN3br70l1xKg" extension="true" description="files/descriptions/_boZMUP5BEeGN3br70l1xKg/Represented.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_LItj0JqWEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Involved" id="_0OvP8P5BEeGN3br70l1xKg" extension="true" description="files/descriptions/_0OvP8P5BEeGN3br70l1xKg/Involved.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_LIwAEJqWEeGqE71CwgtiTg"/>
+      </states>
+      <states name="In Agreement" id="_7UwQYP5BEeGN3br70l1xKg" extension="true" description="files/descriptions/_7UwQYP5BEeGN3br70l1xKg/In Agreement.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_LIzDYJqWEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Satisfied for Deployment" id="_D1zEYP5CEeGN3br70l1xKg" extension="true" description="files/descriptions/_D1zEYP5CEeGN3br70l1xKg/Satisfied for Deployment.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_LI1foJqWEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Satisfied in Use" id="_KfOPcP5CEeGN3br70l1xKg" extension="true" description="files/descriptions/_KfOPcP5CEeGN3br70l1xKg/Satisfied in Use.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_S51E0JqYEeGqE71CwgtiTg"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphas name="Opportunity" id="_pT-ZQP5GEeGN3br70l1xKg" extension="true" description="files/descriptions/_pT-ZQP5GEeGN3br70l1xKg/Opportunity.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_thrioJqXEeGqE71CwgtiTg"/>
+    <subAlphas name="Need" id="_q1q1gP5GEeGN3br70l1xKg" description="files/descriptions/_q1q1gP5GEeGN3br70l1xKg/Need.etextile">
+      <stateMachine name="States" id="_r0E-gP5GEeGN3br70l1xKg">
+        <states name="Identified" id="_r0E-gf5GEeGN3br70l1xKg" description="files/descriptions/_q1q1gP5GEeGN3br70l1xKg/Identified.etextile" order="10"/>
+        <states name="Value Established" id="_r0sCgP5GEeGN3br70l1xKg" description="files/descriptions/_q1q1gP5GEeGN3br70l1xKg/Value Established.etextile" order="20"/>
+        <states name="Satisfied" id="_r0420P5GEeGN3br70l1xKg" description="files/descriptions/_q1q1gP5GEeGN3br70l1xKg/Satisfied.etextile" order="30"/>
+        <states name="Expectations Exceeded" id="_r1GSMP5GEeGN3br70l1xKg" description="files/descriptions/_q1q1gP5GEeGN3br70l1xKg/Expectations Exceeded.etextile" order="40"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_a0288P5JEeGN3br70l1xKg" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_uNrF8JqXEeGqE71CwgtiTg"/>
+      <states name="Solution Needed" id="_dYYCkP5JEeGN3br70l1xKg" extension="true" description="files/descriptions/_dYYCkP5JEeGN3br70l1xKg/Solution Needed.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_uNuJQJqXEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Value Established" id="_noaH8P5JEeGN3br70l1xKg" extension="true" description="files/descriptions/_noaH8P5JEeGN3br70l1xKg/Value Established.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_uNxMkJqXEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Addressed" id="_t2D9AP5JEeGN3br70l1xKg" extension="true" description="files/descriptions/_t2D9AP5JEeGN3br70l1xKg/Addressed.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_uN2sIJqXEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Benefit Accrued" id="_0c0OkP5JEeGN3br70l1xKg" extension="true" description="files/descriptions/_0c0OkP5JEeGN3br70l1xKg/Benefit Accrued.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_N_hp0JqfEeGqE71CwgtiTg"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphaAssociations name="Stakeholder Representatives drive Stakeholders" id="_2mYGoP5KEeGN3br70l1xKg" briefDescription="The progress of the Stakeholder Representatives drives the progress of the Stakeholders." role1="_H9_3kP48EeGN3br70l1xKg" role2="_BREskP48EeGN3br70l1xKg"/>
+  <alphaAssociations name="Needs drive Opportunity" id="_10wnAP5LEeGKgt_7nfPqFw" briefDescription="The progress of the Needs drive the progress of the Opportunity." role1="_q1q1gP5GEeGN3br70l1xKg" role2="_pT-ZQP5GEeGN3br70l1xKg"/>
+</com.ivarjacobson.essworkng.domainmodel:KernelExtension>

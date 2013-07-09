@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionpoints>
+<extensionpoint line="5" name="preamble"/>
+<extensionpoint line="9" name="introduction"/>
+<extensionpoint line="11" name="brief"/>
+<extensionpoint line="13" name="purposes"/>
+<extensionpoint line="21" name="content"/>
+<extensionpoint line="23" name="alphas"/>
+<extensionpoint line="47" name="contentToDo"/>
+<extensionpoint line="51" name="contentCompetencies"/>
+<extensionpoint line="55" name="faq"/>
+<extensionpoint line="59" name="references"/>
+<extensionpoint line="61" name="readings"/>
+</extensionpoints>

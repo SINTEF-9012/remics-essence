@@ -1,0 +1,11 @@
+{element-name:id=default|level=2}
+
+An error, fault or flaw in the Software System is observed and logged.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* Bug has been reported and given a unique identifier.
+* Details about the Bug, and the situation within which it occurred, have been reported.
+* The severity of the Bug has been assessed.

@@ -1,0 +1,15 @@
+{element-name:id=default|level=2}
+
+The system is usable and demonstrates all of the quality characteristics of an operational system.
+
+h3. Checkpoints
+
+The alpha is in this state when:
+
+* The system can be operated by stakeholders who use it.
+* The functionality provided by the system has been tested.
+* The performance of the system is acceptable to the stakeholders.
+* Defect levels are acceptable to the stakeholders.
+* The system is fully documented.
+* Release content is known.
+* The added value provided by the system is clear.

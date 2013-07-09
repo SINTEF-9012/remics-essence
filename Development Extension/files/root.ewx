@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:KernelExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="_T-23Af5gEeGFOcUrENh9VA" description="files/descriptions/_T-23Af5gEeGFOcUrENh9VA/Development Extension.etextile" copyright="2012 Ivar Jacobson International AB, Florida Atlantic University, Fujitsu, Impetus, International Business Machines Corporation, KTH Royal Institute of Technology, Metamaxim Ltd., PEM Systems, Stiftelsen SINTEF, University of Duisburg-Essen.  " version="1.0.2">
+  <alphas name="Requirements" id="_JbvBEP5hEeGFOcUrENh9VA" extension="true" description="files/descriptions/_JbvBEP5hEeGFOcUrENh9VA/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <subAlphas name="Requirement Item" id="_J75H0P5hEeGFOcUrENh9VA" description="files/descriptions/_J75H0P5hEeGFOcUrENh9VA/Requirement Item.etextile">
+      <stateMachine name="States" id="_KtXoEP5hEeGFOcUrENh9VA">
+        <states name="Identified" id="_KtXoEf5hEeGFOcUrENh9VA" description="files/descriptions/_J75H0P5hEeGFOcUrENh9VA/Identified.etextile" order="10"/>
+        <states name="Described" id="_Ktb5gP5hEeGFOcUrENh9VA" description="files/descriptions/_J75H0P5hEeGFOcUrENh9VA/Described.etextile" order="20"/>
+        <states name="Implemented" id="_Kte80P5hEeGFOcUrENh9VA" description="files/descriptions/_J75H0P5hEeGFOcUrENh9VA/Implemented.etextile" order="30"/>
+        <states name="Verified" id="_KthZEP5hEeGFOcUrENh9VA" description="files/descriptions/_J75H0P5hEeGFOcUrENh9VA/Verified.etextile" order="40"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_csM6QP5jEeGFOcUrENh9VA" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+      <states name="Bounded" id="_fvwx4P5jEeGFOcUrENh9VA" extension="true" description="files/descriptions/_fvwx4P5jEeGFOcUrENh9VA/Bounded.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_geCLgJqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Coherent" id="_t3hWwP5jEeGFOcUrENh9VA" extension="true" description="files/descriptions/_t3hWwP5jEeGFOcUrENh9VA/Coherent.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_geFO0JqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Acceptable" id="_X4TQ8P5kEeGFOcUrENh9VA" extension="true" description="files/descriptions/_X4TQ8P5kEeGFOcUrENh9VA/Acceptable.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_geISIJqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Addressed" id="_j2gvYP5kEeGFOcUrENh9VA" extension="true" description="files/descriptions/_j2gvYP5kEeGFOcUrENh9VA/Addressed.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_geLVcJqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Fulfilled" id="_q2XdcP5kEeGFOcUrENh9VA" extension="true" description="files/descriptions/_q2XdcP5kEeGFOcUrENh9VA/Fulfilled.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_S4FqEJs1EeGz7PwLWcYeYg"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphas name="Software System" id="_XzXbsP5mEeGFOcUrENh9VA" extension="true" description="files/descriptions/_XzXbsP5mEeGFOcUrENh9VA/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <subAlphas name="Bug" id="_ZCux0P5mEeGFOcUrENh9VA" description="files/descriptions/_ZCux0P5mEeGFOcUrENh9VA/Bug.etextile">
+      <stateMachine name="States" id="_ZfBFMP5mEeGFOcUrENh9VA">
+        <states name="Detected" id="_ZfBFMf5mEeGFOcUrENh9VA" description="files/descriptions/_ZCux0P5mEeGFOcUrENh9VA/Detected.etextile" order="10"/>
+        <states name="Located" id="_Zfat0P5mEeGFOcUrENh9VA" description="files/descriptions/_ZCux0P5mEeGFOcUrENh9VA/Located.etextile" order="20"/>
+        <states name="Fixed" id="_ZfdxIP5mEeGFOcUrENh9VA" description="files/descriptions/_ZCux0P5mEeGFOcUrENh9VA/Fixed.etextile" order="30"/>
+        <states name="Closed" id="_Zfg0cP5mEeGFOcUrENh9VA" description="files/descriptions/_ZCux0P5mEeGFOcUrENh9VA/Closed.etextile" order="40"/>
+      </stateMachine>
+    </subAlphas>
+    <subAlphas name="System Element" id="_D7oC8P5rEeGFOcUrENh9VA" description="files/descriptions/_D7oC8P5rEeGFOcUrENh9VA/System Element.etextile">
+      <stateMachine name="States" id="_F08VAP5rEeGFOcUrENh9VA">
+        <states name="Identified" id="_F08VAf5rEeGFOcUrENh9VA" description="files/descriptions/_D7oC8P5rEeGFOcUrENh9VA/Identified.etextile" order="10"/>
+        <states name="Interfaces Agreed" id="_F1AmcP5rEeGFOcUrENh9VA" description="files/descriptions/_D7oC8P5rEeGFOcUrENh9VA/Interfaces Agreed.etextile" order="20"/>
+        <states name="Developed" id="_F1GGAP5rEeGFOcUrENh9VA" description="files/descriptions/_D7oC8P5rEeGFOcUrENh9VA/Developed.etextile" order="30"/>
+        <states name="Ready" id="_F1JJUP5rEeGFOcUrENh9VA" description="files/descriptions/_D7oC8P5rEeGFOcUrENh9VA/Ready.etextile" order="40"/>
+      </stateMachine>
+    </subAlphas>
+    <stateMachine name="States" id="_ede4YP5oEeGFOcUrENh9VA" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+      <states name="Demonstrable" id="_fCLg4P5oEeGFOcUrENh9VA" extension="true" description="files/descriptions/_fCLg4P5oEeGFOcUrENh9VA/Demonstrable.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_h6dtQJqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Usable" id="_mISn8P5oEeGFOcUrENh9VA" extension="true" description="files/descriptions/_mISn8P5oEeGFOcUrENh9VA/Usable.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_h6gwkJqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Ready" id="_twz4gP5oEeGFOcUrENh9VA" extension="true" description="files/descriptions/_twz4gP5oEeGFOcUrENh9VA/Ready.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_h6jz4JqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Operational" id="_2dSgcP5oEeGFOcUrENh9VA" extension="true" description="files/descriptions/_2dSgcP5oEeGFOcUrENh9VA/Operational.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_h6m3MJqqEeGqE71CwgtiTg"/>
+      </states>
+      <states name="Architecture Selected" id="_qHcrgP5wEeGFOcUrENh9VA" extension="true" description="files/descriptions/_qHcrgP5wEeGFOcUrENh9VA/Architecture Selected.etextile">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:State" href="../../Essence%20Kernel/files/root.ewx#_h6DdkZqqEeGqE71CwgtiTg"/>
+      </states>
+    </stateMachine>
+  </alphas>
+  <alphaAssociations name="Requirement Items drive Requirements" id="_DPw0wP5mEeGFOcUrENh9VA" briefDescription="The progress of the Requirement Items drives the progress of the Requirements." role1="_J75H0P5hEeGFOcUrENh9VA" role2="_JbvBEP5hEeGFOcUrENh9VA"/>
+  <alphaAssociations name="Bugs inhibit Software System" id="_KCtn4P5pEeGFOcUrENh9VA" briefDescription="The Bugs inhibit the progress of the Software System." role1="_ZCux0P5mEeGFOcUrENh9VA" role2="_XzXbsP5mEeGFOcUrENh9VA"/>
+  <alphaAssociations name="System Elements drive Software System" id="_NdDHIP5xEeGFOcUrENh9VA" briefDescription="The progress of the System Elements drives the progress of the Software System." role1="_D7oC8P5rEeGFOcUrENh9VA" role2="_XzXbsP5mEeGFOcUrENh9VA"/>
+</com.ivarjacobson.essworkng.domainmodel:KernelExtension>
