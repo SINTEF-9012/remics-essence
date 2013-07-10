@@ -1,4 +1,4 @@
 remics-essence
 ==============
 
-REMICS Essence Library (Practice Workbench projects)
+REMICS Essence Method Library (EssWork Practice Workbench projects)
