@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>REMICS Assets</name>
+	<comment></comment>
+	<projects>
+		<project>Essence Kernel</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.ivarjacobson.essworkng.author.projectReferencesValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ivarjacobson.essworkng.author.project.natures.PracticeAuthoring</nature>
+		<nature>com.ivarjacobson.essworkng.author.project.natures.PracticeAsset</nature>
+	</natures>
+</projectDescription>

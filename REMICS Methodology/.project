@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>Essence Kernel</project>
+		<project>REMICS Assets</project>
 		<project>REMICS Migration</project>
 		<project>REMICS Recovery</project>
 		<project>REMICS Requirements</project>

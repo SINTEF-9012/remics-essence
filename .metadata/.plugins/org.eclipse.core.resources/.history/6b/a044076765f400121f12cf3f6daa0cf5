@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:PracticeAsset xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Assets" id="7a1bae48-24c4-458a-89b0-68a54b18207a" description="files/descriptions/7a1bae48-24c4-458a-89b0-68a54b18207a/REMICS Assets.etextile" copyright="" version="">
+  <alphas name="Requirements" id="4a1ab2cf-00e0-4e01-a480-afff48ab439f" extension="true" description="files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="135cb5b6-31c6-43fa-a30f-0df95a0e539d" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+  </alphas>
+</com.ivarjacobson.essworkng.domainmodel:PracticeAsset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:PracticeAsset xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Assets" id="7a1bae48-24c4-458a-89b0-68a54b18207a" description="files/descriptions/7a1bae48-24c4-458a-89b0-68a54b18207a/REMICS Assets.etextile" copyright="" version="">
+  <alphas name="Requirements" id="4a1ab2cf-00e0-4e01-a480-afff48ab439f" extension="true" description="files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="135cb5b6-31c6-43fa-a30f-0df95a0e539d" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Deployment Model" id="3f10225b-fcef-41dc-a05d-41e71624fe2a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/Deployment Model.etextile">
+      <levels name="Levels Of Detail" id="e0f95496-c029-4237-b0d9-aa8600ad471b">
+        <levelsOfDetail name="LevelOfDetail1" id="8a04ce6b-69f5-4a89-8e04-52bebece32ca" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="bfea3405-d7c5-489c-bd7c-266d585b3f8c" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="19f44b05-5c46-43e2-a355-fb701804b59a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="e1416b5b-61e5-41fd-8b72-fc530b4802ef" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Requirements Model" id="0d0dccc5-0236-4726-82d8-dee04da952b9" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile">
+      <levels name="Levels Of Detail" id="fe027423-4c61-45f8-9f15-aade52590acc">
+        <levelsOfDetail name="System Idea defined" id="c04fc9bf-4f63-478c-9dc5-7f8a70874acf" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/System Idea defined.etextile" order="10"/>
+        <levelsOfDetail name="Actors identified" id="3dafab9b-a0f0-466c-8bad-38eaab533c41" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Actors identified.etextile" order="20"/>
+        <levelsOfDetail name="System Overview described" id="be0f9dbc-f31e-4b0f-b6c1-86da17f14e35" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/System Overview described.etextile" order="30"/>
+        <levelsOfDetail name="Additional System Requirements identified" id="c6f2fca2-bab9-49be-8e76-13c61f57843b" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Additional System Requirements identified.etextile" order="40"/>
+        <levelsOfDetail name="Recovered System Requirements generated" id="59a4cc8f-23b4-4646-9213-afa4f6f80320" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Recovered System Requirements generated.etextile" order="50"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Glossary" id="1792f2e6-e6c8-4c76-8cdf-43593c20d8f2" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile">
+      <levels name="Levels Of Detail" id="c45b2814-680a-4f84-964c-2015253eb915">
+        <levelsOfDetail name="Initial" id="cef67744-4f97-4070-96c6-19447bc045ee" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Initial.etextile" order="10">
+          <checkpoints name="An initial glossary has been created." id="5335467e-504b-4857-a3de-46c12ed826cb" order="10"/>
+        </levelsOfDetail>
+        <levelsOfDetail name="Updated" id="2ec278a0-7955-42ef-993a-cde14270cdd9" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Updated.etextile" order="20">
+          <checkpoints name="The glossary contains updated definitions of terms." id="8779e4e3-3964-43d0-afca-65ba7cc52a45" order="10"/>
+        </levelsOfDetail>
+        <levelsOfDetail name="Complete" id="55f22171-f460-4576-a41d-da5e47e59ad4" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Complete.etextile" order="30">
+          <checkpoints name="The glossary contains definitions of all terms used." id="f37dc7b5-9604-4a32-a168-ca794bc66bb6" order="10"/>
+        </levelsOfDetail>
+      </levels>
+    </workProducts>
+  </alphas>
+</com.ivarjacobson.essworkng.domainmodel:PracticeAsset>

@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>Essence Kernel</project>
+		<project>REMICS Assets</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
