@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Requirements" id="3a310be6-1187-4491-803a-65ea0d56abb8" description="files/descriptions/3a310be6-1187-4491-803a-65ea0d56abb8/REMICS Requirements.etextile" copyright="" version="">
+  <alphas name="Requirements" id="2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64" extension="true" description="files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="df8e1de9-ffc8-4f53-b004-c8b51511a04a" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Glossary" id="defe30a4-d36b-4bd7-a2fd-15245a805a52" description="files/descriptions/defe30a4-d36b-4bd7-a2fd-15245a805a52/Glossary.etextile">
+      <levels name="Levels Of Detail" id="0fcbe3e6-6e7d-45ea-9e6e-1d955031f4cf">
+        <levelsOfDetail name="Initial" id="b1a16d6f-26af-412c-ad2f-560e42893d1b" description="files/descriptions/defe30a4-d36b-4bd7-a2fd-15245a805a52/Initial.etextile" order="10">
+          <checkpoints name="An initial glossary has been created." id="8adfdc8a-73ca-4813-906b-0a30f137c819" order="10"/>
+        </levelsOfDetail>
+        <levelsOfDetail name="Updated" id="e04bbcc1-4b17-4dd1-a3b6-bef60264bbe6" description="files/descriptions/defe30a4-d36b-4bd7-a2fd-15245a805a52/Updated.etextile" order="20">
+          <checkpoints name="The glossary contains updated definitions of terms." id="e021f1c3-1720-4fe3-a55f-6f6bf3928fce" order="10"/>
+        </levelsOfDetail>
+        <levelsOfDetail name="Complete" id="453b0901-e9fb-4986-a3d6-79923f8be09c" description="files/descriptions/defe30a4-d36b-4bd7-a2fd-15245a805a52/Complete.etextile" order="30">
+          <checkpoints name="The glossary contains definitions of all terms used." id="3e2e932b-0fa1-4ccd-af71-d40daaaf1dd6" order="10"/>
+        </levelsOfDetail>
+      </levels>
+    </workProducts>
+    <workProducts name="Requirements Model" id="84009701-eaf9-4538-9d05-0301d1246d66" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/Requirements Model.etextile">
+      <subWorkProducts name="Actors" id="e0dbca83-ae4d-485a-98e5-04406496c02c" description="files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/Actors.etextile">
+        <levels name="Levels Of Detail" id="6c1db7d5-1f5d-4de9-8b79-36c1f24b00a4">
+          <levelsOfDetail name="Initial" id="dffe6b5c-65d8-4006-a609-7e5faf7a30c4" description="files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="Additional System Requirements" id="ac3338fa-8394-41d3-80ad-750982e14d95" description="files/descriptions/ac3338fa-8394-41d3-80ad-750982e14d95/Additional System Requirements.etextile">
+        <levels name="Levels Of Detail" id="f1bd9fb3-c595-4296-8006-c941e4b410c8">
+          <levelsOfDetail name="Initial" id="40c676a4-423d-4e01-a0bc-9ce9c99ad299" description="files/descriptions/ac3338fa-8394-41d3-80ad-750982e14d95/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="Deployment" id="b8d8dded-bac6-44b2-8e53-57c984142df4" description="files/descriptions/b8d8dded-bac6-44b2-8e53-57c984142df4/Deployment.etextile">
+        <levels name="Levels Of Detail" id="ecaf8304-003b-45fd-89cb-06615db26df4">
+          <levelsOfDetail name="Initial" id="52ae0b55-f13e-4c2b-a571-d5f700934ce5" description="files/descriptions/b8d8dded-bac6-44b2-8e53-57c984142df4/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="Validation Criteria" id="aade85e8-e79a-49eb-b3f8-4d53b7d3632f" description="files/descriptions/aade85e8-e79a-49eb-b3f8-4d53b7d3632f/Validation Criteria.etextile">
+        <levels name="Levels Of Detail" id="880682d3-2a67-4a33-a56f-e823335b267b">
+          <levelsOfDetail name="Initial" id="d366f893-886a-4513-b6ba-cb4895820254" description="files/descriptions/aade85e8-e79a-49eb-b3f8-4d53b7d3632f/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="System Idea" id="5c04dcf2-332f-4f9d-ab7c-c2e21abd87a6" description="files/descriptions/5c04dcf2-332f-4f9d-ab7c-c2e21abd87a6/System Idea.etextile">
+        <levels name="Levels Of Detail" id="7fbae41d-ae1d-4d83-ad7e-7f930fc01b0f">
+          <levelsOfDetail name="Initial" id="a0524887-22db-42a2-8210-c5cb32435132" description="files/descriptions/5c04dcf2-332f-4f9d-ab7c-c2e21abd87a6/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="System Overview" id="90a46113-53d0-4dea-8a11-43421523770e" description="files/descriptions/90a46113-53d0-4dea-8a11-43421523770e/System Overview.etextile">
+        <levels name="Levels Of Detail" id="c5e997ac-dcfc-4aac-9d2e-36aa9491c257">
+          <levelsOfDetail name="Initial" id="a170a7e2-2117-44e9-8ec4-5f04771fa09c" description="files/descriptions/90a46113-53d0-4dea-8a11-43421523770e/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="7934ef28-6a19-45a3-a217-f7f523d49995">
+        <levelsOfDetail name="Actors identified" id="70917696-04e2-4e6b-8d77-1eb969e73ad6" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/Actors identified.etextile" order="20"/>
+        <levelsOfDetail name="System Idea defined" id="04d4fa69-2b92-42a1-9585-4d09d72c83d0" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/System Idea defined.etextile" order="10"/>
+        <levelsOfDetail name="System Overview described" id="06d71a99-9de2-4db5-a879-450eb5407543" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/System Overview described.etextile" order="30"/>
+        <levelsOfDetail name="Additional System Requirements identified" id="ee5db4e7-fadb-4f46-9337-78367481f976" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/Additional System Requirements identified.etextile" order="40"/>
+        <levelsOfDetail name="Deployment defined" id="0ddb27e6-b7aa-464d-8d4d-ed7f6708939f" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/Deployment defined.etextile" order="60"/>
+        <levelsOfDetail name="Recovered System Requirements defined" id="56c17d37-7b68-4b58-8fda-954883e8edb5" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/Recovered System Requirements defined.etextile" order="50"/>
+        <levelsOfDetail name="Validation Criteria established" id="e7ce72f8-1601-4e22-ada6-d103dcbce159" description="files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/Validation Criteria established.etextile" order="70"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <alphas name="Software System" id="d8ec8323-c1ba-4e1d-a112-09b4f886bcc3" extension="true" description="files/descriptions/d8ec8323-c1ba-4e1d-a112-09b4f886bcc3/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="1a206ec6-0a06-48e5-94a6-7d8b82966c69" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+  </alphas>
+  <activitySpaces name="Understand the Requirements" id="4bd96322-9bda-4ba4-97d1-fdf52afbfb2c" extension="true" description="files/descriptions/4bd96322-9bda-4ba4-97d1-fdf52afbfb2c/Understand the Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_3zG5cJs3EeGz7PwLWcYeYg"/>
+    <activities name="Apply Techniques to Evaluate Feasibility" id="e49d8217-0852-4233-aa03-6d729508dbc7" description="files/descriptions/e49d8217-0852-4233-aa03-6d729508dbc7/Apply Techniques to Evaluate Feasibility.etextile">
+      <workProductCriteria name="System Overview is completed" id="50a38f6f-26d4-4cdc-a840-17eae4dd9d3c"/>
+    </activities>
+    <activities name="Define General Deployment Model " id="8031499b-1d07-4437-bef7-2f7a460c6226" description="files/descriptions/8031499b-1d07-4437-bef7-2f7a460c6226/Define General Deployment Model .etextile">
+      <workProductCriteria name="Deployment defined" id="ef600fe8-0871-4180-a5fa-b6f90c386c85" reachedLevel="0ddb27e6-b7aa-464d-8d4d-ed7f6708939f"/>
+    </activities>
+    <activities name="Describe the System" id="dfbe9605-a557-4987-bbd5-c9ceed72440c" description="files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile">
+      <workProductCriteria name="System Overview is Described" id="620c31c1-36de-4563-9be0-2885abcbdde3" reachedLevel="06d71a99-9de2-4db5-a879-450eb5407543"/>
+    </activities>
+    <activities name="Elaborate Glossary" id="02fc6319-aa0a-49ef-90dd-b098fa5347ed" description="files/descriptions/02fc6319-aa0a-49ef-90dd-b098fa5347ed/Elaborate Glossary.etextile">
+      <workProductCriteria name="Glossary is Updated" id="b01a20b3-4fb5-4d0a-b52c-e872a84cd644" reachedLevel="e04bbcc1-4b17-4dd1-a3b6-bef60264bbe6"/>
+    </activities>
+    <activities name="Establish Validation Criteria" id="e659c95d-324f-4054-9787-171de78bbc63" description="files/descriptions/e659c95d-324f-4054-9787-171de78bbc63/Establish Validation Criteria.etextile">
+      <workProductCriteria name="Validation Criteria established" id="38ec6419-8b4e-463e-b5a2-9311fcf1fd46" reachedLevel="e7ce72f8-1601-4e22-ada6-d103dcbce159"/>
+    </activities>
+    <activities name="Identify Actors" id="a2eb43bd-3440-4e25-8aec-cfdfed70ff6e" description="files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile">
+      <workProductCriteria name="Actors identified" id="ad951d67-14f0-4b55-a546-9c14c59885fb" reachedLevel="70917696-04e2-4e6b-8d77-1eb969e73ad6"/>
+    </activities>
+    <activities name="Identify Additional Requirements " id="cce86684-de87-43c6-947b-945022a7ae0a" description="files/descriptions/cce86684-de87-43c6-947b-945022a7ae0a/Identify Additional Requirements .etextile">
+      <workProductCriteria name="Additional System Requirements identified" id="e2ae4e0e-f97c-4677-bd27-c7525c1809ca" reachedLevel="ee5db4e7-fadb-4f46-9337-78367481f976"/>
+    </activities>
+  </activitySpaces>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

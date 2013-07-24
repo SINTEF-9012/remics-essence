@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="e9956f48-3580-41d9-8306-aebbe3dde564" description="files/descriptions/e9956f48-3580-41d9-8306-aebbe3dde564/REMICS Recovery.etextile" copyright="" version="">
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Recovery" id="e9956f48-3580-41d9-8306-aebbe3dde564" description="files/descriptions/e9956f48-3580-41d9-8306-aebbe3dde564/REMICS Recovery.etextile" copyright="" version="">
   <alphas name="Software System" id="8e75ab4a-a0ad-428c-955d-f6e2b635b585" extension="true" description="files/descriptions/8e75ab4a-a0ad-428c-955d-f6e2b635b585/Software System.etextile">
     <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
     <stateMachine name="States" id="a4fbb79b-25c3-4f63-bc52-9548c5f7420c" extension="true">

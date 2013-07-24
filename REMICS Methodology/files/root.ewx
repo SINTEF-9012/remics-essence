@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ivarjacobson.essworkng.domainmodel:Method xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" id="00f96380-e5a5-4244-a6f6-93ef04fddf51" description="files/descriptions/00f96380-e5a5-4244-a6f6-93ef04fddf51/REMICS Methodology.etextile" copyright="" version="">
+<com.ivarjacobson.essworkng.domainmodel:Method xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Methodology" id="00f96380-e5a5-4244-a6f6-93ef04fddf51" description="files/descriptions/00f96380-e5a5-4244-a6f6-93ef04fddf51/REMICS Methodology.etextile" copyright="" version="">
   <alphas name="Work" id="3485450c-5878-494b-adb9-cbc23ab384c7" extension="true" description="files/descriptions/3485450c-5878-494b-adb9-cbc23ab384c7/Work.etextile" concern="4c853aa8-1cc1-4e76-9199-f1e732e6580e">
     <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_e62xAJs4EeGz7PwLWcYeYg"/>
     <subAlphas name="Sprint" id="07448b99-8475-48c1-bc23-fe18cb4fd0b5" extension="true" description="files/descriptions/07448b99-8475-48c1-bc23-fe18cb4fd0b5/Sprint.etextile">
@@ -338,15 +338,9 @@
     <activities name="Identify Additional Requirements " id="13764b4c-f2e6-417d-bc3c-b005e84d70dd" extension="true" description="files/descriptions/13764b4c-f2e6-417d-bc3c-b005e84d70dd/Identify Additional Requirements .etextile">
       <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Activity" href="../../REMICS%20Requirements/files/root.ewx#cce86684-de87-43c6-947b-945022a7ae0a"/>
     </activities>
-    <activities name="Prepare and Demo Product Backlog" id="6acb5cef-6c4c-43cb-b25a-ac83f942a06a" extension="true" description="files/descriptions/6acb5cef-6c4c-43cb-b25a-ac83f942a06a/Prepare and Demo Product Backlog.etextile">
-      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Activity" href="../../REMICS%20Requirements/files/root.ewx#5045f584-21ec-4589-b028-2a73171573f7"/>
-    </activities>
-    <activities name="Requirements ScrumDemo and Retrospective" id="8c8775cd-cdd6-4103-b7ac-60745a7424cf" extension="true" description="files/descriptions/8c8775cd-cdd6-4103-b7ac-60745a7424cf/Requirements ScrumDemo and Retrospective.etextile">
-      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Activity" href="../../REMICS%20Requirements/files/root.ewx#eddc3271-48bf-482d-98a7-81f278e6974c"/>
-    </activities>
-    <activities name="Sprint Planning" id="63f79fc8-a040-4457-88a4-df2ed04246a0" extension="true" description="files/descriptions/63f79fc8-a040-4457-88a4-df2ed04246a0/Sprint Planning.etextile">
-      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Activity" href="../../REMICS%20Requirements/files/root.ewx#bdc76f80-fa92-4af3-955d-2511aa121ee0"/>
-    </activities>
+    <activities name="Prepare and Demo Product Backlog" id="6acb5cef-6c4c-43cb-b25a-ac83f942a06a" extension="true" description="files/descriptions/6acb5cef-6c4c-43cb-b25a-ac83f942a06a/Prepare and Demo Product Backlog.etextile"/>
+    <activities name="Requirements ScrumDemo and Retrospective" id="8c8775cd-cdd6-4103-b7ac-60745a7424cf" extension="true" description="files/descriptions/8c8775cd-cdd6-4103-b7ac-60745a7424cf/Requirements ScrumDemo and Retrospective.etextile"/>
+    <activities name="Sprint Planning" id="63f79fc8-a040-4457-88a4-df2ed04246a0" extension="true" description="files/descriptions/63f79fc8-a040-4457-88a4-df2ed04246a0/Sprint Planning.etextile"/>
   </activitySpaces>
   <activitySpaces name="Test the System" id="49305710-465c-4997-aae8-9569a9792edd" extension="true" description="files/descriptions/49305710-465c-4997-aae8-9569a9792edd/Test the System.etextile" alphaInput="a0f44912-2294-46ae-8a7b-bef90eb0b762 9fd76f39-b879-47aa-80c7-3fccef74a7c4 9613cace-9d52-43a9-ab02-7eca3cb9f2d0" concern="278ef3a1-bae7-47f8-bebb-8928bb2f23c8">
     <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_PUctwJtBEeGD_KwXqdXFgA"/>

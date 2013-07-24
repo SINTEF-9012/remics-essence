@@ -3,10 +3,12 @@
 	<name>REMICS Methodology</name>
 	<comment></comment>
 	<projects>
-		<project>REMICS Requirements</project>
-		<project>REMICS Recovery</project>
-		<project>Scrum Essentials</project>
 		<project>Essence Kernel</project>
+		<project>REMICS Migration</project>
+		<project>REMICS Recovery</project>
+		<project>REMICS Requirements</project>
+		<project>REMICS Validation</project>
+		<project>Scrum Essentials</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
