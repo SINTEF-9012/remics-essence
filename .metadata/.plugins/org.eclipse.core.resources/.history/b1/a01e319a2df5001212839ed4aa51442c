@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Migration" id="57b9db05-00eb-412e-a399-e643a5446982" description="files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile" copyright="" version="">
+  <alphas name="Requirements" id="8f54bc12-a31d-4dbd-9162-5047c2ebfb1d" extension="true" description="files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="2e908a23-6953-4218-8a09-2f9f1af94c66" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Software System" id="435aad31-e3dc-4418-9464-83a2cdb03acd" extension="true" description="files/descriptions/435aad31-e3dc-4418-9464-83a2cdb03acd/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="fb6ef034-fcc8-430d-994d-9dff4d712d1f" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Deployment Model" id="a877e9ad-4296-4583-92a3-8f30f02403b9" extension="true" description="files/descriptions/a877e9ad-4296-4583-92a3-8f30f02403b9/Deployment Model.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#3f10225b-fcef-41dc-a05d-41e71624fe2a"/>
+      <subWorkProducts name="Cloud Deployment Model" id="2fbc34ef-d1bb-484d-bfd4-d39efec884f2" description="files/descriptions/2fbc34ef-d1bb-484d-bfd4-d39efec884f2/Cloud Deployment Model.etextile">
+        <levels name="Levels Of Detail" id="1b6da7fa-262a-4293-a9cf-dc43aa9ae4e5">
+          <levelsOfDetail name="Initial" id="ba3c6087-bd59-45c4-a797-9cac0feef69c" description="files/descriptions/2fbc34ef-d1bb-484d-bfd4-d39efec884f2/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="7800289d-a701-4d35-9d67-adc7701fc838" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#e0f95496-c029-4237-b0d9-aa8600ad471b"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Source Code" id="bc5f121e-4dfc-4472-aa0c-e491a34c74e6" extension="true" description="files/descriptions/bc5f121e-4dfc-4472-aa0c-e491a34c74e6/Source Code.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#8b7a3ebd-8629-4e73-b1c4-c9955b566051"/>
+      <subWorkProducts name="Code" id="999e6168-5744-495e-a3a1-8f55cbbacc4f" description="files/descriptions/999e6168-5744-495e-a3a1-8f55cbbacc4f/Code.etextile">
+        <levels name="Levels Of Detail" id="92b49068-1b3c-46be-9b41-0295f6e2839e">
+          <levelsOfDetail name="Initial" id="992327dc-e224-45c6-970c-c615d1d8a258" description="files/descriptions/999e6168-5744-495e-a3a1-8f55cbbacc4f/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="09851406-0382-42fa-9322-1ac0ad048c9a" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#5e496b8c-94ba-442c-befa-eab958a05256"/>
+      </levels>
+    </workProducts>
+    <workProducts name="System Model" id="ede89b93-8a48-4009-80c9-96aeb4c12600" extension="true" description="files/descriptions/ede89b93-8a48-4009-80c9-96aeb4c12600/System Model.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#60d8cc34-3bab-4c69-94e7-1ceb56141906"/>
+      <subWorkProducts name="Implementation Design" id="7912fd98-50b9-4642-8579-267f5dfe858f" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/Implementation Design.etextile">
+        <levels name="Levels Of Detail" id="1e0a9e7f-4a08-46cc-af51-91eddfbf3377">
+          <levelsOfDetail name="LevelOfDetail1" id="8c459b7e-d097-4c72-9b33-af079cb2f35a" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/LevelOfDetail1.etextile" order="10"/>
+          <levelsOfDetail name="LevelOfDetail2" id="fee3a8d2-635d-4621-8b0a-08e2e557748e" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/LevelOfDetail2.etextile" order="20"/>
+          <levelsOfDetail name="LevelOfDetail3" id="c9e70633-9dbb-4af0-a4f5-1e9d97f67522" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/LevelOfDetail3.etextile" order="30"/>
+          <levelsOfDetail name="LevelOfDetail4" id="aec4430d-c47a-4cd1-a40d-68075c0eff5c" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/LevelOfDetail4.etextile" order="40"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="e4e1c86b-323f-4afe-841f-5d53feceaada" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#79ea71a9-edb6-4ae5-80c5-143697fb318a"/>
+      </levels>
+    </workProducts>
+  </alphas>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

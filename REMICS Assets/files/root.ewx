@@ -5,14 +5,6 @@
     <stateMachine name="States" id="135cb5b6-31c6-43fa-a30f-0df95a0e539d" extension="true">
       <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
     </stateMachine>
-    <workProducts name="Deployment Model" id="3f10225b-fcef-41dc-a05d-41e71624fe2a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/Deployment Model.etextile">
-      <levels name="Levels Of Detail" id="e0f95496-c029-4237-b0d9-aa8600ad471b">
-        <levelsOfDetail name="LevelOfDetail1" id="8a04ce6b-69f5-4a89-8e04-52bebece32ca" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail1.etextile" order="10"/>
-        <levelsOfDetail name="LevelOfDetail2" id="bfea3405-d7c5-489c-bd7c-266d585b3f8c" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail2.etextile" order="20"/>
-        <levelsOfDetail name="LevelOfDetail3" id="19f44b05-5c46-43e2-a355-fb701804b59a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail3.etextile" order="30"/>
-        <levelsOfDetail name="LevelOfDetail4" id="e1416b5b-61e5-41fd-8b72-fc530b4802ef" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail4.etextile" order="40"/>
-      </levels>
-    </workProducts>
     <workProducts name="Requirements Model" id="0d0dccc5-0236-4726-82d8-dee04da952b9" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile">
       <levels name="Levels Of Detail" id="fe027423-4c61-45f8-9f15-aade52590acc">
         <levelsOfDetail name="System Idea defined" id="c04fc9bf-4f63-478c-9dc5-7f8a70874acf" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/System Idea defined.etextile" order="10"/>
@@ -103,6 +95,14 @@
         <levelsOfDetail name="LevelOfDetail2" id="484c5526-e6ac-42ea-99b7-577b851cb58e" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail2.etextile" order="20"/>
         <levelsOfDetail name="LevelOfDetail3" id="489f192b-f0a9-47a4-86a7-0a3297896a45" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail3.etextile" order="30"/>
         <levelsOfDetail name="LevelOfDetail4" id="d6d5b288-e193-451f-9824-da9fa079fc5b" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Deployment Model" id="3f10225b-fcef-41dc-a05d-41e71624fe2a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/Deployment Model.etextile">
+      <levels name="Levels Of Detail" id="e0f95496-c029-4237-b0d9-aa8600ad471b">
+        <levelsOfDetail name="LevelOfDetail1" id="8a04ce6b-69f5-4a89-8e04-52bebece32ca" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="bfea3405-d7c5-489c-bd7c-266d585b3f8c" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="19f44b05-5c46-43e2-a355-fb701804b59a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="e1416b5b-61e5-41fd-8b72-fc530b4802ef" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail4.etextile" order="40"/>
       </levels>
     </workProducts>
   </alphas>

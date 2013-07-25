@@ -6,4 +6,60 @@
       <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
     </stateMachine>
   </alphas>
+  <alphas name="Software System" id="435aad31-e3dc-4418-9464-83a2cdb03acd" extension="true" description="files/descriptions/435aad31-e3dc-4418-9464-83a2cdb03acd/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="fb6ef034-fcc8-430d-994d-9dff4d712d1f" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Deployment Model" id="a877e9ad-4296-4583-92a3-8f30f02403b9" extension="true" description="files/descriptions/a877e9ad-4296-4583-92a3-8f30f02403b9/Deployment Model.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#3f10225b-fcef-41dc-a05d-41e71624fe2a"/>
+      <subWorkProducts name="Cloud Deployment Model" id="2fbc34ef-d1bb-484d-bfd4-d39efec884f2" description="files/descriptions/2fbc34ef-d1bb-484d-bfd4-d39efec884f2/Cloud Deployment Model.etextile">
+        <levels name="Levels Of Detail" id="1b6da7fa-262a-4293-a9cf-dc43aa9ae4e5">
+          <levelsOfDetail name="Initial" id="ba3c6087-bd59-45c4-a797-9cac0feef69c" description="files/descriptions/2fbc34ef-d1bb-484d-bfd4-d39efec884f2/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="7800289d-a701-4d35-9d67-adc7701fc838" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#e0f95496-c029-4237-b0d9-aa8600ad471b"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Source Code" id="bc5f121e-4dfc-4472-aa0c-e491a34c74e6" extension="true" description="files/descriptions/bc5f121e-4dfc-4472-aa0c-e491a34c74e6/Source Code.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#8b7a3ebd-8629-4e73-b1c4-c9955b566051"/>
+      <subWorkProducts name="Code" id="999e6168-5744-495e-a3a1-8f55cbbacc4f" description="files/descriptions/999e6168-5744-495e-a3a1-8f55cbbacc4f/Code.etextile">
+        <levels name="Levels Of Detail" id="92b49068-1b3c-46be-9b41-0295f6e2839e">
+          <levelsOfDetail name="Initial" id="992327dc-e224-45c6-970c-c615d1d8a258" description="files/descriptions/999e6168-5744-495e-a3a1-8f55cbbacc4f/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="09851406-0382-42fa-9322-1ac0ad048c9a" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#5e496b8c-94ba-442c-befa-eab958a05256"/>
+      </levels>
+    </workProducts>
+    <workProducts name="System Model" id="ede89b93-8a48-4009-80c9-96aeb4c12600" extension="true" description="files/descriptions/ede89b93-8a48-4009-80c9-96aeb4c12600/System Model.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#60d8cc34-3bab-4c69-94e7-1ceb56141906"/>
+      <subWorkProducts name="Implementation Design" id="7912fd98-50b9-4642-8579-267f5dfe858f" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/Implementation Design.etextile">
+        <levels name="Levels Of Detail" id="1e0a9e7f-4a08-46cc-af51-91eddfbf3377">
+          <levelsOfDetail name="Initial" id="8c459b7e-d097-4c72-9b33-af079cb2f35a" description="files/descriptions/7912fd98-50b9-4642-8579-267f5dfe858f/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="Service Architecture Model" id="65950980-bf15-43b5-ac61-fc37297186f9" description="files/descriptions/65950980-bf15-43b5-ac61-fc37297186f9/Service Architecture Model.etextile">
+        <levels name="Levels Of Detail" id="76d1322d-8246-410d-a589-d567d8fa73a9">
+          <levelsOfDetail name="Initial" id="e0ab9573-6687-4ef9-b779-a4ce73db4de0" description="files/descriptions/65950980-bf15-43b5-ac61-fc37297186f9/Initial.etextile" order="10"/>
+        </levels>
+      </subWorkProducts>
+      <levels name="Levels Of Detail" id="e4e1c86b-323f-4afe-841f-5d53feceaada" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#79ea71a9-edb6-4ae5-80c5-143697fb318a"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <activitySpaces name="Implement the System" id="a98260d1-c17c-4d1b-bcfc-2aadef890f5b" extension="true" description="files/descriptions/a98260d1-c17c-4d1b-bcfc-2aadef890f5b/Implement the System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_udE20Js6EeGD_KwXqdXFgA"/>
+    <activities name="Complete definition of System Requirements" id="e89ead8c-5404-4f18-98b2-f9bb50921d79" description="files/descriptions/e89ead8c-5404-4f18-98b2-f9bb50921d79/Complete definition of System Requirements.etextile"/>
+    <activities name="Complete the Code" id="04d9c90a-c9f7-4dc3-9773-0372cba86fd6" description="files/descriptions/04d9c90a-c9f7-4dc3-9773-0372cba86fd6/Complete the Code.etextile"/>
+    <activities name="Componentization" id="2cee5fc4-4146-4612-bc39-2b40e7704ce9" description="files/descriptions/2cee5fc4-4146-4612-bc39-2b40e7704ce9/Componentization.etextile"/>
+    <activities name="Definition of Service Architecture" id="1f2385ab-db41-425e-a2e8-de5f8052eea9" description="files/descriptions/1f2385ab-db41-425e-a2e8-de5f8052eea9/Definition of Service Architecture.etextile"/>
+    <activities name="Definition of Cloud Architecture" id="19fd1cdb-6870-4f47-844b-2c8cf307a161" description="files/descriptions/19fd1cdb-6870-4f47-844b-2c8cf307a161/Definition of Cloud Architecture.etextile"/>
+    <activities name="Definition of Overall Cloud Architecture" id="e87db76c-a22d-44cf-913a-1b91a82fcaad" description="files/descriptions/e87db76c-a22d-44cf-913a-1b91a82fcaad/Definition of Overall Cloud Architecture.etextile"/>
+    <activities name="Implement Design" id="95340fc7-f4e0-405e-be0b-08e85c5e5a18" description="files/descriptions/95340fc7-f4e0-405e-be0b-08e85c5e5a18/Implement Design.etextile"/>
+    <activities name="Perform Isolation Functional Testing" id="44bf1e00-2180-4495-be03-ecd55ec23a6a" description="files/descriptions/44bf1e00-2180-4495-be03-ecd55ec23a6a/Perform Isolation Functional Testing.etextile"/>
+    <activities name="PSM Transformation" id="8e22d589-8d76-4812-aa3a-7d2f4302b3ff" description="files/descriptions/8e22d589-8d76-4812-aa3a-7d2f4302b3ff/PSM Transformation.etextile"/>
+  </activitySpaces>
 </com.ivarjacobson.essworkng.domainmodel:Practice>
