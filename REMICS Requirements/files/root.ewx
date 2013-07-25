@@ -48,12 +48,6 @@
       </levels>
     </workProducts>
   </alphas>
-  <alphas name="Software System" id="d8ec8323-c1ba-4e1d-a112-09b4f886bcc3" extension="true" description="files/descriptions/d8ec8323-c1ba-4e1d-a112-09b4f886bcc3/Software System.etextile">
-    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
-    <stateMachine name="States" id="1a206ec6-0a06-48e5-94a6-7d8b82966c69" extension="true">
-      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
-    </stateMachine>
-  </alphas>
   <activitySpaces name="Understand the Requirements" id="4bd96322-9bda-4ba4-97d1-fdf52afbfb2c" extension="true" description="files/descriptions/4bd96322-9bda-4ba4-97d1-fdf52afbfb2c/Understand the Requirements.etextile">
     <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_3zG5cJs3EeGz7PwLWcYeYg"/>
     <activities name="Apply Techniques to Evaluate Feasibility" id="e49d8217-0852-4233-aa03-6d729508dbc7" description="files/descriptions/e49d8217-0852-4233-aa03-6d729508dbc7/Apply Techniques to Evaluate Feasibility.etextile">

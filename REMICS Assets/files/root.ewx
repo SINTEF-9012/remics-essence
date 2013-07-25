@@ -59,7 +59,7 @@
     </stateMachine>
     <workProducts name="Source Code" id="8b7a3ebd-8629-4e73-b1c4-c9955b566051" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/Source Code.etextile">
       <levels name="Levels Of Detail" id="5e496b8c-94ba-442c-befa-eab958a05256">
-        <levelsOfDetail name="LevelOfDetail1" id="46a2f90f-ad59-4301-a9a2-de64626f1e09" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="Legacy Code collected" id="46a2f90f-ad59-4301-a9a2-de64626f1e09" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/Legacy Code collected.etextile" order="10"/>
         <levelsOfDetail name="LevelOfDetail2" id="4a176cc5-a1a7-4fca-93cb-dd07b417b179" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail2.etextile" order="20"/>
         <levelsOfDetail name="LevelOfDetail3" id="b1ccd44b-09d7-40da-910d-f9f362366933" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail3.etextile" order="30"/>
         <levelsOfDetail name="LevelOfDetail4" id="ddbeacd3-2bbd-4537-afc1-1a4b50f4d651" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail4.etextile" order="40"/>
@@ -75,9 +75,9 @@
     </workProducts>
     <workProducts name="System Model" id="60d8cc34-3bab-4c69-94e7-1ceb56141906" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/System Model.etextile">
       <levels name="Levels Of Detail" id="79ea71a9-edb6-4ae5-80c5-143697fb318a">
-        <levelsOfDetail name="LevelOfDetail1" id="e8a98527-b7cb-481b-a3fd-9f826513af39" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/LevelOfDetail1.etextile" order="10"/>
-        <levelsOfDetail name="LevelOfDetail2" id="29616fdf-3259-440b-a3f8-a191b9ccb6ae" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/LevelOfDetail2.etextile" order="20"/>
-        <levelsOfDetail name="LevelOfDetail3" id="98de9367-e5a2-43c6-9f5e-b72a4cde5a0a" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="Knowledge Model recovered" id="e8a98527-b7cb-481b-a3fd-9f826513af39" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile" order="10"/>
+        <levelsOfDetail name="Knowledge Model refined" id="29616fdf-3259-440b-a3f8-a191b9ccb6ae" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model refined.etextile" order="20"/>
+        <levelsOfDetail name="Architecture Model generated" id="98de9367-e5a2-43c6-9f5e-b72a4cde5a0a" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Architecture Model generated.etextile" order="30"/>
         <levelsOfDetail name="LevelOfDetail4" id="36fb690f-4166-4906-85d1-ff8ec246b073" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/LevelOfDetail4.etextile" order="40"/>
       </levels>
     </workProducts>

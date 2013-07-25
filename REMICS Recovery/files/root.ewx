@@ -9,18 +9,19 @@
       <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#60d8cc34-3bab-4c69-94e7-1ceb56141906"/>
       <subWorkProducts name="Architecture Model" id="816ed941-d2be-4870-9440-7fc9a3aade02" description="files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile">
         <levels name="Levels Of Detail" id="2bbc96c3-eaf7-4d33-89ee-f0c88800ad24">
-          <levelsOfDetail name="LevelOfDetail1" id="854e30fe-bd64-4d8d-91d3-b4f2849dab58" description="files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/LevelOfDetail1.etextile" order="10"/>
-          <levelsOfDetail name="LevelOfDetail2" id="ed050e89-e71e-4e53-9f43-cff826bc945a" description="files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/LevelOfDetail2.etextile" order="20"/>
-          <levelsOfDetail name="LevelOfDetail3" id="f3a1627f-a838-4a89-8f18-f3dd6b77f9b8" description="files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/LevelOfDetail3.etextile" order="30"/>
-          <levelsOfDetail name="LevelOfDetail4" id="d2a16d78-5a39-4d4d-bf48-df9b28d57448" description="files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/LevelOfDetail4.etextile" order="40"/>
+          <levelsOfDetail name="Initial" id="854e30fe-bd64-4d8d-91d3-b4f2849dab58" description="files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Initial.etextile" order="10"/>
         </levels>
       </subWorkProducts>
-      <subWorkProducts name="Recovered System Models" id="fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/Recovered System Models.etextile">
+      <subWorkProducts name="Recovered System Model" id="fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/Recovered System Model.etextile">
         <levels name="Levels Of Detail" id="f4381806-5a91-4638-9b62-713c8d97f6a4">
-          <levelsOfDetail name="LevelOfDetail1" id="c7efb58c-18a7-4a67-9372-8f67ac490083" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/LevelOfDetail1.etextile" order="10"/>
-          <levelsOfDetail name="LevelOfDetail2" id="69f5a114-bc01-46f8-b907-d79bbd287a53" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/LevelOfDetail2.etextile" order="20"/>
-          <levelsOfDetail name="LevelOfDetail3" id="56dae393-922e-430b-8ab6-2b832da15a9a" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/LevelOfDetail3.etextile" order="30"/>
-          <levelsOfDetail name="LevelOfDetail4" id="860c63ae-d4a2-4ef9-9082-8dde73c6899e" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/LevelOfDetail4.etextile" order="40"/>
+          <levelsOfDetail name="Initial" id="c7efb58c-18a7-4a67-9372-8f67ac490083" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/Initial.etextile" order="10"/>
+          <levelsOfDetail name="Reviewed" id="fafd8c86-c55e-4c0d-a9f1-60d98ab25516" description="files/descriptions/fb41e09c-2e96-4aac-abbe-cc3e8c3fdedb/Reviewed.etextile" order="20"/>
+        </levels>
+      </subWorkProducts>
+      <subWorkProducts name="Knowledge Model" id="0e90a96f-ecb4-4a6d-bb2e-8f24457411e8" description="files/descriptions/0e90a96f-ecb4-4a6d-bb2e-8f24457411e8/Knowledge Model.etextile">
+        <levels name="Levels Of Detail" id="bfdab5fb-4e48-44cf-8179-c7ea8d788382">
+          <levelsOfDetail name="Recovered" id="f8a95772-e703-408f-9b14-553ac3f41656" description="files/descriptions/0e90a96f-ecb4-4a6d-bb2e-8f24457411e8/Recovered.etextile" order="10"/>
+          <levelsOfDetail name="Refined" id="73b1ae1f-4073-41f4-99e8-5e8cfdc01f76" description="files/descriptions/0e90a96f-ecb4-4a6d-bb2e-8f24457411e8/Refined.etextile" order="20"/>
         </levels>
       </subWorkProducts>
       <levels name="Levels Of Detail" id="c5f1f84a-73a9-4e83-96be-1bd9de8cff5f" extension="true">
@@ -31,10 +32,7 @@
       <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#8b7a3ebd-8629-4e73-b1c4-c9955b566051"/>
       <subWorkProducts name="Legacy Code" id="f917fbf1-9ec1-4dc9-acb2-3d8461a441c2" description="files/descriptions/f917fbf1-9ec1-4dc9-acb2-3d8461a441c2/Legacy Code.etextile">
         <levels name="Levels Of Detail" id="c7f4eef3-4723-4ebf-834e-a1b873072df2">
-          <levelsOfDetail name="LevelOfDetail1" id="833f2e39-54fc-446d-899a-ba1b136f3f56" description="files/descriptions/f917fbf1-9ec1-4dc9-acb2-3d8461a441c2/LevelOfDetail1.etextile" order="10"/>
-          <levelsOfDetail name="LevelOfDetail2" id="618045ef-c3eb-4e70-bfe1-02c11407c0ba" description="files/descriptions/f917fbf1-9ec1-4dc9-acb2-3d8461a441c2/LevelOfDetail2.etextile" order="20"/>
-          <levelsOfDetail name="LevelOfDetail3" id="69f13e0f-3c2c-4353-ba4e-8d926ff1074c" description="files/descriptions/f917fbf1-9ec1-4dc9-acb2-3d8461a441c2/LevelOfDetail3.etextile" order="30"/>
-          <levelsOfDetail name="LevelOfDetail4" id="fa10d6cc-5366-4942-b4f4-f2811d97e267" description="files/descriptions/f917fbf1-9ec1-4dc9-acb2-3d8461a441c2/LevelOfDetail4.etextile" order="40"/>
+          <levelsOfDetail name="Initial" id="833f2e39-54fc-446d-899a-ba1b136f3f56" description="files/descriptions/f917fbf1-9ec1-4dc9-acb2-3d8461a441c2/Initial.etextile" order="10"/>
         </levels>
       </subWorkProducts>
       <levels name="Levels Of Detail" id="8c6da931-cd8e-4cbe-8526-5821edefb524" extension="true">
@@ -51,10 +49,8 @@
       <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#0d0dccc5-0236-4726-82d8-dee04da952b9"/>
       <subWorkProducts name="Recovered System Requirements" id="6fc9ea39-5124-40a6-95f1-d379b4253351" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/Recovered System Requirements.etextile">
         <levels name="Levels Of Detail" id="96bafb5e-fc1b-4f91-bacd-b5b627a670e9">
-          <levelsOfDetail name="LevelOfDetail1" id="0c039d7c-ddf0-4472-abdf-1b9ef292683b" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/LevelOfDetail1.etextile" order="10"/>
-          <levelsOfDetail name="LevelOfDetail2" id="dfe17720-a5c3-4546-9246-dbcb878c0426" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/LevelOfDetail2.etextile" order="20"/>
-          <levelsOfDetail name="LevelOfDetail3" id="5d2a9d9f-ec21-4af7-b7a0-affc5369b1f5" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/LevelOfDetail3.etextile" order="30"/>
-          <levelsOfDetail name="LevelOfDetail4" id="0448c725-1565-4e56-aa4f-3d63fdbb7456" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/LevelOfDetail4.etextile" order="40"/>
+          <levelsOfDetail name="Generated" id="0c039d7c-ddf0-4472-abdf-1b9ef292683b" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/Generated.etextile" order="10"/>
+          <levelsOfDetail name="Reviewed" id="dfe17720-a5c3-4546-9246-dbcb878c0426" description="files/descriptions/6fc9ea39-5124-40a6-95f1-d379b4253351/Reviewed.etextile" order="20"/>
         </levels>
       </subWorkProducts>
       <levels name="Levels Of Detail" id="57e19bae-e330-4a93-9faa-a649554ba0eb" extension="true">
@@ -65,21 +61,30 @@
   <activitySpaces name="Shape the System" id="11afa7ee-94a3-4158-8a87-8f7c4c466ebf" extension="true" description="files/descriptions/11afa7ee-94a3-4158-8a87-8f7c4c466ebf/Shape the System.etextile">
     <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_RW05YJs6EeGD_KwXqdXFgA"/>
     <activities name="Collect the Code" id="2b18bf75-f58e-40ed-a6b3-ede784d1bf42" description="files/descriptions/2b18bf75-f58e-40ed-a6b3-ede784d1bf42/Collect the Code.etextile">
-      <workProductCriteria name="Legacy Code is collected" id="8ec43582-d032-42ae-82ae-db366b56d47f" reachedLevel="833f2e39-54fc-446d-899a-ba1b136f3f56"/>
+      <workProductCriteria name="Legacy Code collected" id="8ec43582-d032-42ae-82ae-db366b56d47f">
+        <reachedLevel href="../../REMICS%20Assets/files/root.ewx#46a2f90f-ad59-4301-a9a2-de64626f1e09"/>
+      </workProductCriteria>
     </activities>
     <activities name="Customer Reviews " id="38990816-04fd-463c-88e7-5495483fdaee" description="files/descriptions/38990816-04fd-463c-88e7-5495483fdaee/Customer Reviews .etextile">
-      <workProductCriteria name="Recovered System Models are created" id="774e0184-d22f-4fb6-9793-06f9877b14d9" reachedLevel="c7efb58c-18a7-4a67-9372-8f67ac490083"/>
-      <workProductCriteria name="Recovered System Requirements are created" id="c52e145c-4f34-4dcb-8018-33a1b9592399" reachedLevel="0c039d7c-ddf0-4472-abdf-1b9ef292683b"/>
+      <workProductCriteria name="Recovered System Model is Reviewed" id="774e0184-d22f-4fb6-9793-06f9877b14d9" reachedLevel="fafd8c86-c55e-4c0d-a9f1-60d98ab25516"/>
+      <workProductCriteria name="Recovered System Requirements is Reviewed" id="c52e145c-4f34-4dcb-8018-33a1b9592399" reachedLevel="dfe17720-a5c3-4546-9246-dbcb878c0426"/>
     </activities>
     <activities name="Generate System Model" id="dfd9b205-6dbe-421e-a381-b78ed1d79f6b" description="files/descriptions/dfd9b205-6dbe-421e-a381-b78ed1d79f6b/Generate System Model.etextile">
-      <workProductCriteria name="UML Model is generated" id="38f0e61f-353d-45ad-a7bd-9eb2f9813c0a" reachedLevel="854e30fe-bd64-4d8d-91d3-b4f2849dab58"/>
+      <workProductCriteria name="Architecture Model generated" id="38f0e61f-353d-45ad-a7bd-9eb2f9813c0a">
+        <reachedLevel href="../../REMICS%20Assets/files/root.ewx#98de9367-e5a2-43c6-9f5e-b72a4cde5a0a"/>
+      </workProductCriteria>
     </activities>
-    <activities name="Generate System Requirement " id="c0adf20f-26af-44d2-a29f-87ae9cff747b" description="files/descriptions/c0adf20f-26af-44d2-a29f-87ae9cff747b/Generate System Requirement .etextile"/>
-    <activities name="Recover Application Testing" id="6da33c5f-b995-444e-a1b8-ca39de1c7a0c" description="files/descriptions/6da33c5f-b995-444e-a1b8-ca39de1c7a0c/Recover Application Testing.etextile"/>
-    <activities name="Recover System Knowledge" id="2548151d-9e8a-4bb5-83e2-4702984ea2ee" description="files/descriptions/2548151d-9e8a-4bb5-83e2-4702984ea2ee/Recover System Knowledge.etextile"/>
-    <activities name="Refine System Knowledge" id="17ea4a28-d26f-45df-9203-4b88b35becff" description="files/descriptions/17ea4a28-d26f-45df-9203-4b88b35becff/Refine System Knowledge.etextile"/>
-    <activities name="Prepare and Demo Product Backlog" id="f2833cc4-b4c3-4299-b385-ab48dbde0867" description="files/descriptions/f2833cc4-b4c3-4299-b385-ab48dbde0867/Prepare and Demo Product Backlog.etextile"/>
-    <activities name="Requirements ScrumDemo and Retrospective" id="95f80672-f493-42a1-a057-43f5c40f4388" description="files/descriptions/95f80672-f493-42a1-a057-43f5c40f4388/Requirements ScrumDemo and Retrospective.etextile"/>
-    <activities name="Sprint Planning" id="3680b788-2a2c-4ed5-b327-93c81dd80215" description="files/descriptions/3680b788-2a2c-4ed5-b327-93c81dd80215/Sprint Planning.etextile"/>
+    <activities name="Generate System Requirement " id="c0adf20f-26af-44d2-a29f-87ae9cff747b" description="files/descriptions/c0adf20f-26af-44d2-a29f-87ae9cff747b/Generate System Requirement .etextile">
+      <workProductCriteria name="Recovered System Requirements is Generated" id="1b9810f0-7dd0-4acf-866c-2e77671229f4" reachedLevel="0c039d7c-ddf0-4472-abdf-1b9ef292683b"/>
+    </activities>
+    <activities name="Recover Application Testing" id="6da33c5f-b995-444e-a1b8-ca39de1c7a0c" description="files/descriptions/6da33c5f-b995-444e-a1b8-ca39de1c7a0c/Recover Application Testing.etextile">
+      <workProductCriteria name="Architecture Model is Initial" id="31f29f11-6b5b-48d9-9c14-2f28a5ff3b27" reachedLevel="854e30fe-bd64-4d8d-91d3-b4f2849dab58"/>
+    </activities>
+    <activities name="Recover System Knowledge" id="2548151d-9e8a-4bb5-83e2-4702984ea2ee" description="files/descriptions/2548151d-9e8a-4bb5-83e2-4702984ea2ee/Recover System Knowledge.etextile">
+      <workProductCriteria name="Knowledge Model is Recovered" id="5eb4b429-9a58-479f-ab8a-9ea899fbc72c" reachedLevel="f8a95772-e703-408f-9b14-553ac3f41656"/>
+    </activities>
+    <activities name="Refine System Knowledge" id="17ea4a28-d26f-45df-9203-4b88b35becff" description="files/descriptions/17ea4a28-d26f-45df-9203-4b88b35becff/Refine System Knowledge.etextile">
+      <workProductCriteria name="Knowledge Model is Refined" id="ec97947f-34c1-4d55-9d9b-b07de8ece1c0" reachedLevel="73b1ae1f-4073-41f4-99e8-5e8cfdc01f76"/>
+    </activities>
   </activitySpaces>
 </com.ivarjacobson.essworkng.domainmodel:Practice>
