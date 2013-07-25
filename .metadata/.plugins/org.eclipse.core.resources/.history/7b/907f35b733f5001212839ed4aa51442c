@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Validation" id="819a7d25-06fc-4abe-8430-ae5b3512e058" description="files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile" copyright="" version="">
+  <alphas name="Requirements" id="c50d6bb2-586c-4d4f-ab0b-80fa8dc22965" extension="true" description="files/descriptions/c50d6bb2-586c-4d4f-ab0b-80fa8dc22965/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="cd1ac435-6e8c-4ad6-af99-2f7684ac80f9" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Test Report" id="8550642f-62de-4ce6-a92d-2eed26613303" extension="true" description="files/descriptions/8550642f-62de-4ce6-a92d-2eed26613303/Test Report.etextile">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:WorkProduct" href="../../REMICS%20Assets/files/root.ewx#49227bb5-a3bc-4662-8607-0837d52e4161"/>
+      <levels name="Levels Of Detail" id="805f8019-dd8c-402d-a983-48377748fe56" extension="true">
+        <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:LevelsOfDetail" href="../../REMICS%20Assets/files/root.ewx#ead28234-e000-486e-83ee-1e106a24fc0f"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <alphas name="Software System" id="1c998f3b-d519-4199-b4d2-3b6640f86a97" extension="true" description="files/descriptions/1c998f3b-d519-4199-b4d2-3b6640f86a97/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="e2ddba6e-ea38-4fae-95ac-0425ae0345db" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+  </alphas>
+  <activitySpaces name="Test the System" id="85b31de8-7289-4924-add6-55697d1e4c66" extension="true" description="files/descriptions/85b31de8-7289-4924-add6-55697d1e4c66/Test the System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_PUctwJtBEeGD_KwXqdXFgA"/>
+  </activitySpaces>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Validation" id="819a7d25-06fc-4abe-8430-ae5b3512e058" description="files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile" copyright="" version="">
+  <activitySpaces name="Test the System" id="85b31de8-7289-4924-add6-55697d1e4c66" extension="true" description="files/descriptions/85b31de8-7289-4924-add6-55697d1e4c66/Test the System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_PUctwJtBEeGD_KwXqdXFgA"/>
+  </activitySpaces>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

@@ -29,6 +29,22 @@
         </levelsOfDetail>
       </levels>
     </workProducts>
+    <workProducts name="Test Model" id="a76b1245-30b7-4809-884a-bfdb09af4689" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/Test Model.etextile">
+      <levels name="Levels Of Detail" id="edf576a5-0011-48ad-923e-31ada09d5265">
+        <levelsOfDetail name="LevelOfDetail1" id="97fb6152-811a-4b47-8e4c-b9caede16d10" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="2a340ff4-5d3b-4d3c-8975-db733b846a28" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="a029bc05-547b-4b24-8282-f2d1d16cf112" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="bd238274-643f-436b-8083-999afa7f70f1" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Test Report" id="49227bb5-a3bc-4662-8607-0837d52e4161" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/Test Report.etextile">
+      <levels name="Levels Of Detail" id="ead28234-e000-486e-83ee-1e106a24fc0f">
+        <levelsOfDetail name="LevelOfDetail1" id="348c07ba-33e5-4f3e-99d9-2f187dfa1687" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="fdd920a0-7120-433f-abe8-8ecc20652005" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="da6e24b3-4f58-442b-85de-1c5eae443823" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="6948d554-0ced-4d76-bbfc-f98f381c2a58" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
   </alphas>
   <alphas name="Work" id="9cc87411-13ce-442f-8fe2-9ccbfb81cdb0" extension="true" description="files/descriptions/9cc87411-13ce-442f-8fe2-9ccbfb81cdb0/Work.etextile">
     <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_e62xAJs4EeGz7PwLWcYeYg"/>
@@ -71,22 +87,6 @@
         <levelsOfDetail name="Knowledge Model refined" id="29616fdf-3259-440b-a3f8-a191b9ccb6ae" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model refined.etextile" order="20"/>
         <levelsOfDetail name="Architecture Model generated" id="98de9367-e5a2-43c6-9f5e-b72a4cde5a0a" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Architecture Model generated.etextile" order="30"/>
         <levelsOfDetail name="LevelOfDetail4" id="36fb690f-4166-4906-85d1-ff8ec246b073" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/LevelOfDetail4.etextile" order="40"/>
-      </levels>
-    </workProducts>
-    <workProducts name="Test Model" id="a76b1245-30b7-4809-884a-bfdb09af4689" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/Test Model.etextile">
-      <levels name="Levels Of Detail" id="edf576a5-0011-48ad-923e-31ada09d5265">
-        <levelsOfDetail name="LevelOfDetail1" id="97fb6152-811a-4b47-8e4c-b9caede16d10" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail1.etextile" order="10"/>
-        <levelsOfDetail name="LevelOfDetail2" id="2a340ff4-5d3b-4d3c-8975-db733b846a28" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail2.etextile" order="20"/>
-        <levelsOfDetail name="LevelOfDetail3" id="a029bc05-547b-4b24-8282-f2d1d16cf112" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail3.etextile" order="30"/>
-        <levelsOfDetail name="LevelOfDetail4" id="bd238274-643f-436b-8083-999afa7f70f1" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail4.etextile" order="40"/>
-      </levels>
-    </workProducts>
-    <workProducts name="Test Report" id="49227bb5-a3bc-4662-8607-0837d52e4161" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/Test Report.etextile">
-      <levels name="Levels Of Detail" id="ead28234-e000-486e-83ee-1e106a24fc0f">
-        <levelsOfDetail name="LevelOfDetail1" id="348c07ba-33e5-4f3e-99d9-2f187dfa1687" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail1.etextile" order="10"/>
-        <levelsOfDetail name="LevelOfDetail2" id="fdd920a0-7120-433f-abe8-8ecc20652005" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail2.etextile" order="20"/>
-        <levelsOfDetail name="LevelOfDetail3" id="da6e24b3-4f58-442b-85de-1c5eae443823" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail3.etextile" order="30"/>
-        <levelsOfDetail name="LevelOfDetail4" id="6948d554-0ced-4d76-bbfc-f98f381c2a58" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail4.etextile" order="40"/>
       </levels>
     </workProducts>
     <workProducts name="Withdrawal Model" id="7bd39fcd-864e-49bb-a94c-413bd202d660" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/Withdrawal Model.etextile">

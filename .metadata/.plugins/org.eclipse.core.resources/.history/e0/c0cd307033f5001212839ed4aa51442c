@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:PracticeAsset xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="REMICS Assets" id="7a1bae48-24c4-458a-89b0-68a54b18207a" description="files/descriptions/7a1bae48-24c4-458a-89b0-68a54b18207a/REMICS Assets.etextile" copyright="" version="">
+  <alphas name="Requirements" id="4a1ab2cf-00e0-4e01-a480-afff48ab439f" extension="true" description="files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="135cb5b6-31c6-43fa-a30f-0df95a0e539d" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Requirements Model" id="0d0dccc5-0236-4726-82d8-dee04da952b9" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile">
+      <levels name="Levels Of Detail" id="fe027423-4c61-45f8-9f15-aade52590acc">
+        <levelsOfDetail name="System Idea defined" id="c04fc9bf-4f63-478c-9dc5-7f8a70874acf" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/System Idea defined.etextile" order="10"/>
+        <levelsOfDetail name="Actors identified" id="3dafab9b-a0f0-466c-8bad-38eaab533c41" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Actors identified.etextile" order="20"/>
+        <levelsOfDetail name="System Overview described" id="be0f9dbc-f31e-4b0f-b6c1-86da17f14e35" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/System Overview described.etextile" order="30"/>
+        <levelsOfDetail name="Additional System Requirements identified" id="c6f2fca2-bab9-49be-8e76-13c61f57843b" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Additional System Requirements identified.etextile" order="40"/>
+        <levelsOfDetail name="Recovered System Requirements generated" id="59a4cc8f-23b4-4646-9213-afa4f6f80320" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Recovered System Requirements generated.etextile" order="50"/>
+        <levelsOfDetail name="Deployment defined" id="7feb12cc-f6ac-4c94-9fc8-b79efe44e013" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Deployment defined.etextile" order="60"/>
+        <levelsOfDetail name="Validation Criteria established" id="0fb9214a-e689-4dbf-ad62-b230f1108404" description="files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Validation Criteria established.etextile" order="70"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Glossary" id="1792f2e6-e6c8-4c76-8cdf-43593c20d8f2" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile">
+      <levels name="Levels Of Detail" id="c45b2814-680a-4f84-964c-2015253eb915">
+        <levelsOfDetail name="Initial" id="cef67744-4f97-4070-96c6-19447bc045ee" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Initial.etextile" order="10">
+          <checkpoints name="An initial glossary has been created." id="5335467e-504b-4857-a3de-46c12ed826cb" order="10"/>
+        </levelsOfDetail>
+        <levelsOfDetail name="Updated" id="2ec278a0-7955-42ef-993a-cde14270cdd9" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Updated.etextile" order="20">
+          <checkpoints name="The glossary contains updated definitions of terms." id="8779e4e3-3964-43d0-afca-65ba7cc52a45" order="10"/>
+        </levelsOfDetail>
+        <levelsOfDetail name="Complete" id="55f22171-f460-4576-a41d-da5e47e59ad4" description="files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Complete.etextile" order="30">
+          <checkpoints name="The glossary contains definitions of all terms used." id="f37dc7b5-9604-4a32-a168-ca794bc66bb6" order="10"/>
+        </levelsOfDetail>
+      </levels>
+    </workProducts>
+  </alphas>
+  <alphas name="Work" id="9cc87411-13ce-442f-8fe2-9ccbfb81cdb0" extension="true" description="files/descriptions/9cc87411-13ce-442f-8fe2-9ccbfb81cdb0/Work.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_e62xAJs4EeGz7PwLWcYeYg"/>
+    <stateMachine name="States" id="67919ddf-b76e-4b62-885b-a92c754a85b3" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_fRNbgJs4EeGz7PwLWcYeYg"/>
+    </stateMachine>
+    <workProducts name="Project Plan" id="f147048c-7820-48a4-ab87-17379b2d124a" description="files/descriptions/f147048c-7820-48a4-ab87-17379b2d124a/Project Plan.etextile">
+      <levels name="Levels Of Detail" id="b801cea0-6b52-4c26-a56f-9ad7dc76c3ea">
+        <levelsOfDetail name="LevelOfDetail1" id="69f8ad65-9fd2-46a6-b617-ac2cbe367664" description="files/descriptions/f147048c-7820-48a4-ab87-17379b2d124a/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="e14e5fbd-220e-4da5-b499-fc8a25be1d6f" description="files/descriptions/f147048c-7820-48a4-ab87-17379b2d124a/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="910a65cf-b97e-49e1-a660-af634742ce1f" description="files/descriptions/f147048c-7820-48a4-ab87-17379b2d124a/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="f3d2187b-79e6-49a4-bc63-02becf239335" description="files/descriptions/f147048c-7820-48a4-ab87-17379b2d124a/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <alphas name="Software System" id="e6deae2b-5d08-46fd-90b3-f2e3a840291f" extension="true" description="files/descriptions/e6deae2b-5d08-46fd-90b3-f2e3a840291f/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="55b4e979-1415-4806-a2ff-879bff21c168" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Source Code" id="8b7a3ebd-8629-4e73-b1c4-c9955b566051" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/Source Code.etextile">
+      <levels name="Levels Of Detail" id="5e496b8c-94ba-442c-befa-eab958a05256">
+        <levelsOfDetail name="Legacy Code collected" id="46a2f90f-ad59-4301-a9a2-de64626f1e09" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/Legacy Code collected.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="4a176cc5-a1a7-4fca-93cb-dd07b417b179" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="b1ccd44b-09d7-40da-910d-f9f362366933" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="ddbeacd3-2bbd-4537-afc1-1a4b50f4d651" description="files/descriptions/8b7a3ebd-8629-4e73-b1c4-c9955b566051/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Supervision Model" id="9d3c4928-70f1-4319-aace-b0993cdc27e1" description="files/descriptions/9d3c4928-70f1-4319-aace-b0993cdc27e1/Supervision Model.etextile">
+      <levels name="Levels Of Detail" id="244b9195-816e-4802-8c5f-f6fc0203c62a">
+        <levelsOfDetail name="LevelOfDetail1" id="c321b931-60b5-4631-9b23-83f0ab4823ef" description="files/descriptions/9d3c4928-70f1-4319-aace-b0993cdc27e1/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="81e6f49a-0f44-4812-807f-6a24b53f8f51" description="files/descriptions/9d3c4928-70f1-4319-aace-b0993cdc27e1/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="1e0fba40-9b43-40ff-bd92-d7c9829c8d1f" description="files/descriptions/9d3c4928-70f1-4319-aace-b0993cdc27e1/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="a489e4ef-2b01-48e2-88bc-cc1e5360e459" description="files/descriptions/9d3c4928-70f1-4319-aace-b0993cdc27e1/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="System Model" id="60d8cc34-3bab-4c69-94e7-1ceb56141906" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/System Model.etextile">
+      <levels name="Levels Of Detail" id="79ea71a9-edb6-4ae5-80c5-143697fb318a">
+        <levelsOfDetail name="Knowledge Model recovered" id="e8a98527-b7cb-481b-a3fd-9f826513af39" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile" order="10"/>
+        <levelsOfDetail name="Knowledge Model refined" id="29616fdf-3259-440b-a3f8-a191b9ccb6ae" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model refined.etextile" order="20"/>
+        <levelsOfDetail name="Architecture Model generated" id="98de9367-e5a2-43c6-9f5e-b72a4cde5a0a" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Architecture Model generated.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="36fb690f-4166-4906-85d1-ff8ec246b073" description="files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Test Model" id="a76b1245-30b7-4809-884a-bfdb09af4689" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/Test Model.etextile">
+      <levels name="Levels Of Detail" id="edf576a5-0011-48ad-923e-31ada09d5265">
+        <levelsOfDetail name="LevelOfDetail1" id="97fb6152-811a-4b47-8e4c-b9caede16d10" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="2a340ff4-5d3b-4d3c-8975-db733b846a28" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="a029bc05-547b-4b24-8282-f2d1d16cf112" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="bd238274-643f-436b-8083-999afa7f70f1" description="files/descriptions/a76b1245-30b7-4809-884a-bfdb09af4689/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Test Report" id="49227bb5-a3bc-4662-8607-0837d52e4161" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/Test Report.etextile">
+      <levels name="Levels Of Detail" id="ead28234-e000-486e-83ee-1e106a24fc0f">
+        <levelsOfDetail name="LevelOfDetail1" id="348c07ba-33e5-4f3e-99d9-2f187dfa1687" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="fdd920a0-7120-433f-abe8-8ecc20652005" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="da6e24b3-4f58-442b-85de-1c5eae443823" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="6948d554-0ced-4d76-bbfc-f98f381c2a58" description="files/descriptions/49227bb5-a3bc-4662-8607-0837d52e4161/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Withdrawal Model" id="7bd39fcd-864e-49bb-a94c-413bd202d660" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/Withdrawal Model.etextile">
+      <levels name="Levels Of Detail" id="853411e7-9037-4186-a8f8-96800db36ca0">
+        <levelsOfDetail name="LevelOfDetail1" id="19b578d3-4821-4063-a818-3039dd3b939d" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="484c5526-e6ac-42ea-99b7-577b851cb58e" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="489f192b-f0a9-47a4-86a7-0a3297896a45" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="d6d5b288-e193-451f-9824-da9fa079fc5b" description="files/descriptions/7bd39fcd-864e-49bb-a94c-413bd202d660/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+    <workProducts name="Deployment Model" id="3f10225b-fcef-41dc-a05d-41e71624fe2a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/Deployment Model.etextile">
+      <levels name="Levels Of Detail" id="e0f95496-c029-4237-b0d9-aa8600ad471b">
+        <levelsOfDetail name="LevelOfDetail1" id="8a04ce6b-69f5-4a89-8e04-52bebece32ca" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="bfea3405-d7c5-489c-bd7c-266d585b3f8c" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="19f44b05-5c46-43e2-a355-fb701804b59a" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="e1416b5b-61e5-41fd-8b72-fc530b4802ef" description="files/descriptions/3f10225b-fcef-41dc-a05d-41e71624fe2a/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+  </alphas>
+</com.ivarjacobson.essworkng.domainmodel:PracticeAsset>
