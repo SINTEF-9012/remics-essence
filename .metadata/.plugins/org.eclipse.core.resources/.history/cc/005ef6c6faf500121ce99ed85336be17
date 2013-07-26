@@ -54,13 +54,11 @@
       <workProductCriteria name="Validation Criteria established" id="50a38f6f-26d4-4cdc-a840-17eae4dd9d3c">
         <reachedLevel href="../../REMICS%20Assets/files/root.ewx#0fb9214a-e689-4dbf-ad62-b230f1108404"/>
       </workProductCriteria>
-      <alphaInput href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
     </activities>
     <activities name="Define General Deployment Model " id="8031499b-1d07-4437-bef7-2f7a460c6226" description="files/descriptions/8031499b-1d07-4437-bef7-2f7a460c6226/Define General Deployment Model .etextile">
       <workProductCriteria name="Deployment defined" id="ef600fe8-0871-4180-a5fa-b6f90c386c85">
         <reachedLevel href="../../REMICS%20Assets/files/root.ewx#7feb12cc-f6ac-4c94-9fc8-b79efe44e013"/>
       </workProductCriteria>
-      <alphaInput href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
     </activities>
     <activities name="Describe the System" id="dfbe9605-a557-4987-bbd5-c9ceed72440c" description="files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile">
       <alphaCriteria name="Requirements are Bounded" id="cc1d735b-ed81-429d-b283-744ea101873c">
@@ -75,7 +73,6 @@
       <workProductCriteria name="Glossary is Updated" id="b01a20b3-4fb5-4d0a-b52c-e872a84cd644">
         <reachedLevel href="../../REMICS%20Assets/files/root.ewx#2ec278a0-7955-42ef-993a-cde14270cdd9"/>
       </workProductCriteria>
-      <alphaInput href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
     </activities>
     <activities name="Establish Validation Criteria" id="e659c95d-324f-4054-9787-171de78bbc63" description="files/descriptions/e659c95d-324f-4054-9787-171de78bbc63/Establish Validation Criteria.etextile">
       <alphaCriteria name="Requirements are Coherent" id="96d24c6e-0b84-4a79-bd13-c641bb234798">
@@ -84,7 +81,6 @@
       <workProductCriteria name="Validation Criteria established" id="38ec6419-8b4e-463e-b5a2-9311fcf1fd46">
         <reachedLevel href="../../REMICS%20Assets/files/root.ewx#0fb9214a-e689-4dbf-ad62-b230f1108404"/>
       </workProductCriteria>
-      <alphaInput href="../../REMICS%20Assets/files/root.ewx#4a1ab2cf-00e0-4e01-a480-afff48ab439f"/>
     </activities>
     <activities name="Identify Actors" id="a2eb43bd-3440-4e25-8aec-cfdfed70ff6e" description="files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile">
       <alphaCriteria name="Requirements are Conceived" id="2e12a6a6-3bb6-4c7c-96ec-447354f68038">
@@ -102,7 +98,6 @@
       <workProductCriteria name="Additional System Requirements identified" id="e2ae4e0e-f97c-4677-bd27-c7525c1809ca">
         <reachedLevel href="../../REMICS%20Assets/files/root.ewx#c6f2fca2-bab9-49be-8e76-13c61f57843b"/>
       </workProductCriteria>
-      <alphaInput href="../../REMICS%20Assets/files/root.ewx#4a1ab2cf-00e0-4e01-a480-afff48ab439f"/>
     </activities>
   </activitySpaces>
 </com.ivarjacobson.essworkng.domainmodel:Practice>

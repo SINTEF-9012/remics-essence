@@ -24,44 +24,24 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Way of Working.etextile" partName="Way of Working" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile" title="Way of Working" tooltip="Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile"/>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Describe the System.etextile" partName="Describe the System" path="W:/EPF/EssWork/REMICS/REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile" title="Describe the System" tooltip="REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Team.etextile" partName="Team" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile" title="Team" tooltip="Essence Kernel/files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile"/>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Identify Actors.etextile" partName="Identify Actors" path="W:/EPF/EssWork/REMICS/REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile" title="Identify Actors" tooltip="REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Opportunity.etextile" partName="Opportunity" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile" title="Opportunity" tooltip="Essence Kernel/files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile"/>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Coherent.etextile" partName="Coherent" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile" title="Coherent" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Software System.etextile" partName="Software System" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile" title="Software System" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Work.etextile" partName="Work" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile" title="Work" tooltip="Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Architecture Model.etextile" partName="Architecture Model" path="W:/EPF/EssWork/REMICS/REMICS Recovery/files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile" title="Architecture Model" tooltip="REMICS Recovery/files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Recovery/files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Knowledge Model recovered.etextile" partName="Knowledge Model recovered" path="W:/EPF/EssWork/REMICS/REMICS Assets/files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile" title="Knowledge Model recovered" tooltip="REMICS Assets/files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Assets/files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" partName="Requirements (REMICS Migration)" path="W:/EPF/EssWork/REMICS/REMICS Migration/files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile" title="Requirements (REMICS Migration)" tooltip="REMICS Migration/files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Migration/files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile"/>
+<editor activePart="true" focus="true" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Bounded.etextile" partName="Bounded" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile" title="Bounded" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
@@ -127,8 +107,8 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.3326349" ratioLeft="635" ratioRight="1274" relationship="2" relative="com.ivarjacobson.essworkng.author.perspective.topleft"/>
-<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.bottom" ratio="0.5332086" ratioLeft="570" ratioRight="499" relationship="4" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.28182295" ratioLeft="538" ratioRight="1371" relationship="2" relative="com.ivarjacobson.essworkng.author.perspective.topleft"/>
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.bottom" ratio="0.7708138" ratioLeft="824" ratioRight="245" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
@@ -140,7 +120,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.middle" ratio="0.6525573" ratioLeft="370" ratioRight="197" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="com.ivarjacobson.essworkng.author.perspective.middle" ratio="0.819732" ratioLeft="673" ratioRight="148" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
@@ -169,84 +149,178 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/LevelOfDetail1.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/Default.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/Initial.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Methodology/files/descriptions/079df847-0377-491e-8c4f-7050e7832a72/REMICS Requirements.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/System Idea defined.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Assets/files/descriptions/a77de691-efd4-40f8-8b5a-3086f6b8589e/Way of Working.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Recovery/files/descriptions/0e90a96f-ecb4-4a6d-bb2e-8f24457411e8/Knowledge Model.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Recovery/files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Assets/files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Migration/files/descriptions/7b1703cb-0938-4783-a03c-f301dfb06e28/Software System.etextile"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Migration/files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Assets/files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/b4016a22-b6bb-40f2-91df-36d1d42b2918/Glossary.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Assets/files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Assets/files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Conceived.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/b4016a22-b6bb-40f2-91df-36d1d42b2918/Glossary.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Assets/files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile"/>
 </editors>
-<item historyLabel="LevelOfDetail1" index="0">
+<item historyLabel="Requirements (REMICS Migration)" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Default" index="1">
+<item historyLabel="Requirements" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Initial.etextile" index="2">
+<item historyLabel="Requirements Model" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="REMICS Requirements (REMICS Methodology)" index="3">
+<item historyLabel="Requirements Model (REMICS Requirements)" index="3">
+<position/>
+</item>
+<item historyLabel="Requirements Model" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Initial.etextile" index="2">
+<item historyLabel="Requirements Model (REMICS Requirements)" index="3">
+<position/>
+</item>
+<item historyLabel="Requirements Model" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="System Idea defined" index="4">
+<item historyLabel="Requirements Model (REMICS Requirements)" index="3">
+<position/>
+</item>
+<item historyLabel="Requirements Model" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Way of Working (REMICS Assets)" index="5">
+<item historyLabel="Requirements" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Way of Working" index="6">
+<item historyLabel="Requirements (REMICS Requirements)" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Team" index="7">
+<item historyLabel="Requirements" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Opportunity" index="8">
+<item historyLabel="Requirements (REMICS Migration)" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Software System" index="9">
+<item historyLabel="Requirements Model (REMICS Requirements)" index="3">
+<position/>
+</item>
+<item historyLabel="Requirements (REMICS Migration)" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Work" index="10">
+<item historyLabel="Requirements Model (REMICS Requirements)" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Team" index="7">
+<item historyLabel="Requirements (REMICS Migration)" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Work" index="10">
+<item historyLabel="Way of Working" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Knowledge Model" index="11">
+<item historyLabel="Requirements Model (REMICS Requirements)" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Work" index="10">
+<item historyLabel="Glossary (REMICS Requirements)" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Architecture Model" index="12">
+<item historyLabel="Glossary" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Knowledge Model recovered" index="13">
+<item historyLabel="Requirements Model" index="2">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="Requirements (REMICS Assets)" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Software System (REMICS Migration)" index="14">
+<item historyLabel="Requirements Model" index="2">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="Glossary" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Knowledge Model recovered" index="13">
+<item historyLabel="Requirements Model" index="2">
+<position info="not_deleted" x="527" y="0"/>
+</item>
+<item historyLabel="Requirements (REMICS Requirements)" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item active="true" historyLabel="Requirements (REMICS Migration)" index="15">
+<item historyLabel="Requirements Model" index="2">
+<position info="not_deleted" x="527" y="0"/>
+</item>
+<item historyLabel="Requirements Model (REMICS Requirements)" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Conceived" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Bounded" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Glossary (REMICS Requirements)" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements Model (REMICS Requirements)" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Conceived" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements Model (REMICS Requirements)" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements (REMICS Assets)" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Coherent" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements (REMICS Assets)" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Acceptable" index="16">
+<position/>
+</item>
+<item historyLabel="Requirements (REMICS Assets)" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Addressed" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements (REMICS Assets)" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Acceptable" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements (REMICS Assets)" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements Model (REMICS Requirements)" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Describe the System" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Identify Actors" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Describe the System" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Coherent" index="21">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Bounded" index="22">
 <position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
@@ -265,50 +339,50 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Bounded.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Coherent.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Identify Actors.etextile" tooltip="REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Describe the System.etextile" tooltip="REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements Model.etextile" tooltip="REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Acceptable.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Addressed.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="REMICS Assets/files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile">
+<persistable path="/REMICS Assets/files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Conceived.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Conceived.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Conceived.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="REMICS Requirements/files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements Model.etextile" tooltip="REMICS Assets/files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile">
+<persistable path="/REMICS Assets/files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Glossary.etextile" tooltip="REMICS Assets/files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile">
+<persistable path="/REMICS Assets/files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Glossary.etextile" tooltip="REMICS Requirements/files/descriptions/b4016a22-b6bb-40f2-91df-36d1d42b2918/Glossary.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/b4016a22-b6bb-40f2-91df-36d1d42b2918/Glossary.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Requirements.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Requirements.etextile"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="REMICS Migration/files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile">
 <persistable path="/REMICS Migration/files/descriptions/8f54bc12-a31d-4dbd-9162-5047c2ebfb1d/Requirements.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Software System.etextile" tooltip="REMICS Migration/files/descriptions/7b1703cb-0938-4783-a03c-f301dfb06e28/Software System.etextile">
-<persistable path="/REMICS Migration/files/descriptions/7b1703cb-0938-4783-a03c-f301dfb06e28/Software System.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Knowledge Model recovered.etextile" tooltip="REMICS Assets/files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile">
-<persistable path="/REMICS Assets/files/descriptions/60d8cc34-3bab-4c69-94e7-1ceb56141906/Knowledge Model recovered.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Architecture Model.etextile" tooltip="REMICS Recovery/files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile">
-<persistable path="/REMICS Recovery/files/descriptions/816ed941-d2be-4870-9440-7fc9a3aade02/Architecture Model.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Knowledge Model.etextile" tooltip="REMICS Recovery/files/descriptions/0e90a96f-ecb4-4a6d-bb2e-8f24457411e8/Knowledge Model.etextile">
-<persistable path="/REMICS Recovery/files/descriptions/0e90a96f-ecb4-4a6d-bb2e-8f24457411e8/Knowledge Model.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Work.etextile" tooltip="Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Software System.etextile" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Software System.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Opportunity.etextile" tooltip="Essence Kernel/files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_thrioJqXEeGqE71CwgtiTg/Opportunity.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Team.etextile" tooltip="Essence Kernel/files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_IuWcIJtEEeGD_KwXqdXFgA/Team.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Way of Working.etextile" tooltip="Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_fv9NAJs4EeGz7PwLWcYeYg/Way of Working.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Way of Working.etextile" tooltip="REMICS Assets/files/descriptions/a77de691-efd4-40f8-8b5a-3086f6b8589e/Way of Working.etextile">
-<persistable path="/REMICS Assets/files/descriptions/a77de691-efd4-40f8-8b5a-3086f6b8589e/Way of Working.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="System Idea defined.etextile" tooltip="REMICS Requirements/files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/System Idea defined.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/84009701-eaf9-4538-9d05-0301d1246d66/System Idea defined.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="REMICS Requirements.etextile" tooltip="REMICS Methodology/files/descriptions/079df847-0377-491e-8c4f-7050e7832a72/REMICS Requirements.etextile">
-<persistable path="/REMICS Methodology/files/descriptions/079df847-0377-491e-8c4f-7050e7832a72/REMICS Requirements.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Default.etextile" tooltip="REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/Default.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/Default.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="LevelOfDetail1.etextile" tooltip="REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/LevelOfDetail1.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/e0dbca83-ae4d-485a-98e5-04406496c02c/LevelOfDetail1.etextile"/>
 </file>
 </mruList>
 </workbench>
