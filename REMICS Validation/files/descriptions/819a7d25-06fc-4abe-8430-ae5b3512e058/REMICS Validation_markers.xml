@@ -4,12 +4,4 @@
 <extensionpoint line="9" name="introduction"/>
 <extensionpoint line="11" name="brief"/>
 <extensionpoint line="13" name="purposes"/>
-<extensionpoint line="19" name="whenToApply"/>
-<extensionpoint line="27" name="content"/>
-<extensionpoint line="31" name="contentToDo"/>
-<extensionpoint line="37" name="contentToProduce"/>
-<extensionpoint line="43" name="contentCompetencies"/>
-<extensionpoint line="53" name="faq"/>
-<extensionpoint line="55" name="references"/>
-<extensionpoint line="57" name="readings"/>
 </extensionpoints>

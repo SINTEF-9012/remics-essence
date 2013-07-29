@@ -11,7 +11,7 @@
 <coolItem id="org.eclipse.ui.edit.text.actionSet.navigation" itemType="typeToolBarContribution" x="38" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
 </coolbarLayout>
 <page aggregateWorkingSetId="Aggregate for window 1373295881726" focus="true" label="Workspace - Practice Workbench">
@@ -19,10 +19,71 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+</presentation>
 </folder>
 </info>
 </editorArea>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="REMICS Migration.etextile" partName="REMICS Migration" path="W:/EPF/EssWork/REMICS/REMICS Migration/files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile" title="REMICS Migration" tooltip="REMICS Migration/files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Migration/files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="551" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="REMICS Validation.etextile" partName="REMICS Validation" path="W:/EPF/EssWork/REMICS/REMICS Validation/files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile" title="REMICS Validation" tooltip="REMICS Validation/files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/REMICS Validation/files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="362" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Scrum Essentials.etextile" partName="Scrum Essentials" path="W:/EPF/EssWork/REMICS/Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile" title="Scrum Essentials" tooltip="Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Sprint.etextile" partName="Sprint" path="W:/EPF/EssWork/REMICS/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile" title="Sprint" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Closed.etextile" partName="Closed" path="W:/EPF/EssWork/REMICS/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile" title="Closed" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Coherent.etextile" partName="Coherent" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile" title="Coherent" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Addressed.etextile" partName="Addressed" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile" title="Addressed" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Acceptable.etextile" partName="Acceptable" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile" title="Acceptable" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Architecture Selected.etextile" partName="Architecture Selected" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile" title="Architecture Selected" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Usable.etextile" partName="Usable" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile" title="Usable" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Ready.etextile" partName="Ready" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile" title="Ready" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Demonstrable.etextile" partName="Demonstrable" path="W:/EPF/EssWork/REMICS/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile" title="Demonstrable" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
@@ -41,7 +102,7 @@
 <view id="com.ivarjacobson.essworkng.author.explorer.view" partName="Practice Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
-<view id="com.ivarjacobson.essworkng.wikitexteditor.ElementView" partName="View: Business Analysis Extension">
+<view id="com.ivarjacobson.essworkng.wikitexteditor.ElementView" partName="View: Architecture Selected">
 <viewState/>
 </view>
 </views>
@@ -115,7 +176,7 @@
 </info>
 <info folder="true" part="com.ivarjacobson.essworkng.author.perspective.bottomleft" ratio="0.71748877" ratioLeft="480" ratioRight="189" relationship="4" relative="com.ivarjacobson.essworkng.author.perspective.topleft">
 <folder activePageID="com.ivarjacobson.essworkng.wikitexteditor.ElementView" appearance="2" expanded="2">
-<page content="com.ivarjacobson.essworkng.wikitexteditor.ElementView" label="View: Business Analysis Extension"/>
+<page content="com.ivarjacobson.essworkng.wikitexteditor.ElementView" label="View: Architecture Selected"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 </presentation>
@@ -126,7 +187,170 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Scrum Essentials/files/descriptions/4724bcab-8073-4150-8b37-131b1da4acf4/Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/3a310be6-1187-4491-803a-65ea0d56abb8/REMICS Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Recovery/files/descriptions/e9956f48-3580-41d9-8306-aebbe3dde564/REMICS Recovery.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Migration/files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Validation/files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/REMICS Requirements/files/descriptions/3a310be6-1187-4491-803a-65ea0d56abb8/REMICS Requirements.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Scrum Essentials/files/descriptions/0c9e3165-a719-4f4f-90d3-c203bf1f4135/Work.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile"/>
+</editors>
+<item historyLabel="Sprint" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements (Scrum Essentials)" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Sprint" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Requirements" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Recovery" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Requirements (Scrum Essentials)" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="730" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="730" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="982" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="730" y="0"/>
+</item>
+<item historyLabel="REMICS Requirements" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="362" y="0"/>
+</item>
+<item historyLabel="REMICS Migration" index="4">
+<position info="not_deleted" x="551" y="0"/>
+</item>
+<item historyLabel="REMICS Validation" index="5">
+<position info="not_deleted" x="362" y="0"/>
+</item>
+<item historyLabel="Scrum Essentials" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Sprint" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Closed" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Work (Scrum Essentials)" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Closed" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Work" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Closed" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Coherent" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Addressed" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Acceptable" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Architecture Selected" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Usable" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Ready" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Architecture Selected" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Demonstrable" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Architecture Selected" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
@@ -142,23 +366,17 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Business Analysis Extension.etextile" tooltip="Business Analysis Extension/files/descriptions/_yxAK0f46EeGN3br70l1xKg/Business Analysis Extension.etextile">
-<persistable path="/Business Analysis Extension/files/descriptions/_yxAK0f46EeGN3br70l1xKg/Business Analysis Extension.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Demonstrable.etextile" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Demonstrable.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Bounded.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Bounded.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Ready.etextile" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Ready.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Coherent.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Usable.etextile" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Usable.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Identify Actors.etextile" tooltip="REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/a2eb43bd-3440-4e25-8aec-cfdfed70ff6e/Identify Actors.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Describe the System.etextile" tooltip="REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/dfbe9605-a557-4987-bbd5-c9ceed72440c/Describe the System.etextile"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements Model.etextile" tooltip="REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/f6d4c4f3-0155-4d10-b942-8dfa61d518fe/Requirements Model.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Architecture Selected.etextile" tooltip="Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_hIYJAJqqEeGqE71CwgtiTg/Architecture Selected.etextile"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Acceptable.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile">
 <persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Acceptable.etextile"/>
@@ -166,26 +384,32 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Addressed.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile">
 <persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Addressed.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="REMICS Assets/files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile">
-<persistable path="/REMICS Assets/files/descriptions/4a1ab2cf-00e0-4e01-a480-afff48ab439f/Requirements.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Coherent.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Coherent.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Conceived.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Conceived.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Conceived.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Work.etextile" tooltip="Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile">
+<persistable path="/Essence Kernel/files/descriptions/_e62xAJs4EeGz7PwLWcYeYg/Work.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="REMICS Requirements/files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/2d4b0e98-ce9f-4e15-bdc9-ad47da57ff64/Requirements.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Work.etextile" tooltip="Scrum Essentials/files/descriptions/0c9e3165-a719-4f4f-90d3-c203bf1f4135/Work.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/0c9e3165-a719-4f4f-90d3-c203bf1f4135/Work.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements Model.etextile" tooltip="REMICS Assets/files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile">
-<persistable path="/REMICS Assets/files/descriptions/0d0dccc5-0236-4726-82d8-dee04da952b9/Requirements Model.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Closed.etextile" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Glossary.etextile" tooltip="REMICS Assets/files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile">
-<persistable path="/REMICS Assets/files/descriptions/1792f2e6-e6c8-4c76-8cdf-43593c20d8f2/Glossary.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Sprint.etextile" tooltip="Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Glossary.etextile" tooltip="REMICS Requirements/files/descriptions/b4016a22-b6bb-40f2-91df-36d1d42b2918/Glossary.etextile">
-<persistable path="/REMICS Requirements/files/descriptions/b4016a22-b6bb-40f2-91df-36d1d42b2918/Glossary.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Scrum Essentials.etextile" tooltip="Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile">
+<persistable path="/Scrum Essentials/files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="Requirements.etextile" tooltip="Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Requirements.etextile">
-<persistable path="/Essence Kernel/files/descriptions/_f9EMcJqqEeGqE71CwgtiTg/Requirements.etextile"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="REMICS Requirements.etextile" tooltip="REMICS Requirements/files/descriptions/3a310be6-1187-4491-803a-65ea0d56abb8/REMICS Requirements.etextile">
+<persistable path="/REMICS Requirements/files/descriptions/3a310be6-1187-4491-803a-65ea0d56abb8/REMICS Requirements.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="REMICS Validation.etextile" tooltip="REMICS Validation/files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile">
+<persistable path="/REMICS Validation/files/descriptions/819a7d25-06fc-4abe-8430-ae5b3512e058/REMICS Validation.etextile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ivarjacobson.essworkng.wikitexteditor.etextileeditor" name="REMICS Migration.etextile" tooltip="REMICS Migration/files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile">
+<persistable path="/REMICS Migration/files/descriptions/57b9db05-00eb-412e-a399-e643a5446982/REMICS Migration.etextile"/>
 </file>
 </mruList>
 </workbench>
