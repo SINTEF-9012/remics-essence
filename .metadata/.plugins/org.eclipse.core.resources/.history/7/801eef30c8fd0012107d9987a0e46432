@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="User Stories" id="33fa95ea-bbd8-45a6-97ed-abd688edd79d" description="files/descriptions/33fa95ea-bbd8-45a6-97ed-abd688edd79d/User Stories.etextile" copyright="" version="">
+  <alphas name="Requirements" id="f7585d5d-6896-4cf8-b9d3-d478db3ce654" extension="true" description="files/descriptions/f7585d5d-6896-4cf8-b9d3-d478db3ce654/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <subAlphas name="User Story" id="d5137b4b-df25-4775-948d-f86c244af563" description="files/descriptions/d5137b4b-df25-4775-948d-f86c244af563/User Story.etextile">
+      <stateMachine name="States" id="ca412bf0-c7c1-47d3-91a9-85973108058e">
+        <states name="State1" id="2a26de32-0e6e-4909-be3e-47c1427cfc3e" description="files/descriptions/d5137b4b-df25-4775-948d-f86c244af563/State1.etextile" order="10"/>
+        <states name="State2" id="69dc04b8-8fd6-41c0-aabc-04955337419d" description="files/descriptions/d5137b4b-df25-4775-948d-f86c244af563/State2.etextile" order="20"/>
+        <states name="State3" id="6899f796-0972-4923-9119-54b16eec0bd2" description="files/descriptions/d5137b4b-df25-4775-948d-f86c244af563/State3.etextile" order="30"/>
+        <states name="State4" id="44e3da08-3a6e-482a-b07e-b3408955acbb" description="files/descriptions/d5137b4b-df25-4775-948d-f86c244af563/State4.etextile" order="40"/>
+        <states name="State5" id="481c90f5-8d07-49bf-9d08-77be084778de" description="files/descriptions/d5137b4b-df25-4775-948d-f86c244af563/State5.etextile" order="50"/>
+      </stateMachine>
+      <workProducts name="User Story Card" id="a41e5f34-a1c5-442e-a677-d75d4fdd9442" description="files/descriptions/a41e5f34-a1c5-442e-a677-d75d4fdd9442/User Story Card.etextile">
+        <levels name="Levels Of Detail" id="4d9fa718-8f98-4e08-b99b-3e8e09dec1d0">
+          <levelsOfDetail name="LevelOfDetail1" id="b68125c7-3903-43ba-adf0-dd2f7bd098fc" description="files/descriptions/a41e5f34-a1c5-442e-a677-d75d4fdd9442/LevelOfDetail1.etextile" order="10"/>
+          <levelsOfDetail name="LevelOfDetail2" id="363d20ce-458d-48ef-90f5-19718f180d3b" description="files/descriptions/a41e5f34-a1c5-442e-a677-d75d4fdd9442/LevelOfDetail2.etextile" order="20"/>
+          <levelsOfDetail name="LevelOfDetail3" id="80681a5d-66aa-4062-b421-a01ad9287dad" description="files/descriptions/a41e5f34-a1c5-442e-a677-d75d4fdd9442/LevelOfDetail3.etextile" order="30"/>
+          <levelsOfDetail name="LevelOfDetail4" id="434249a7-61f4-4beb-80c7-811f7654bacd" description="files/descriptions/a41e5f34-a1c5-442e-a677-d75d4fdd9442/LevelOfDetail4.etextile" order="40"/>
+        </levels>
+      </workProducts>
+    </subAlphas>
+    <stateMachine name="States" id="4763a9c3-765b-4e21-b47f-bea52f04a1a4" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+  </alphas>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:PracticeExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="Scrum Getting Started" id="f2127cb5-8267-44e1-9d3d-77beaaba38cb" description="files/descriptions/f2127cb5-8267-44e1-9d3d-77beaaba38cb/Scrum Getting Started.etextile" copyright="" version="">
+  <activitySpaces name="Prepare to do the Work" id="94422085-3a5f-44da-a775-011e8e55a3f4" extension="true" description="files/descriptions/94422085-3a5f-44da-a775-011e8e55a3f4/Prepare to do the Work.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_62RugJtCEeGD_KwXqdXFgA"/>
+  </activitySpaces>
+</com.ivarjacobson.essworkng.domainmodel:PracticeExtension>

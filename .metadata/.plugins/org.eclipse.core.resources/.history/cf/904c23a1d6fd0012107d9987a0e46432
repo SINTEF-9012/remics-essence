@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:Practice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="Scrum Essentials" id="51f09109-0f1e-4b14-9748-4f592824b83e" description="files/descriptions/51f09109-0f1e-4b14-9748-4f592824b83e/Scrum Essentials.etextile" copyright="" version="">
+  <alphas name="Team" id="5d0b6dbb-c029-4b3c-9f8b-820ce0ce94fc" extension="true" description="files/descriptions/5d0b6dbb-c029-4b3c-9f8b-820ce0ce94fc/Team.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_IuWcIJtEEeGD_KwXqdXFgA"/>
+    <stateMachine name="States" id="e066e6cf-51f4-4ace-8026-e8b144c47987" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_JFAooJtEEeGD_KwXqdXFgA"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Work" id="0c9e3165-a719-4f4f-90d3-c203bf1f4135" extension="true" description="files/descriptions/0c9e3165-a719-4f4f-90d3-c203bf1f4135/Work.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_e62xAJs4EeGz7PwLWcYeYg"/>
+    <subAlphas name="Sprint" id="a25930ec-25d0-4055-be5f-d285efe69b1e" description="files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Sprint.etextile">
+      <stateMachine name="States" id="ff934a05-c3e2-4025-979d-93ef2bff3733">
+        <states name="Planned" id="efc2feab-f796-41bf-85d2-da46b7d20fd4" description="files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Planned.etextile" order="10"/>
+        <states name="Started" id="50c4682e-9159-48e0-b147-d54eec771911" description="files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Started.etextile" order="20"/>
+        <states name="Under Control" id="376083f6-8633-4653-9d3c-7fc63ed792ff" description="files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Under Control.etextile" order="30"/>
+        <states name="Concluded" id="379e1a28-0f80-4c08-be75-e21e0be8255a" description="files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Concluded.etextile" order="40"/>
+        <states name="Closed" id="2c5b8d35-f381-48dd-b9cb-1ab4bc194b95" description="files/descriptions/a25930ec-25d0-4055-be5f-d285efe69b1e/Closed.etextile" order="50"/>
+      </stateMachine>
+      <workProducts name="Sprint Backlog" id="e6193bcf-8ecc-4e63-82c4-49ff2012e88f" description="files/descriptions/e6193bcf-8ecc-4e63-82c4-49ff2012e88f/Sprint Backlog.etextile">
+        <levels name="Levels Of Detail" id="f0834ceb-7b52-4d5f-a8e0-cbc9b755d560">
+          <levelsOfDetail name="LevelOfDetail1" id="3276d2d7-8138-47af-934a-a5032ca3117a" description="files/descriptions/e6193bcf-8ecc-4e63-82c4-49ff2012e88f/LevelOfDetail1.etextile" order="10"/>
+          <levelsOfDetail name="LevelOfDetail2" id="464d44f5-e8b9-43cd-9dfb-cc91ccd4db14" description="files/descriptions/e6193bcf-8ecc-4e63-82c4-49ff2012e88f/LevelOfDetail2.etextile" order="20"/>
+          <levelsOfDetail name="LevelOfDetail3" id="ea1e381a-f58a-4271-850d-2c8798e09792" description="files/descriptions/e6193bcf-8ecc-4e63-82c4-49ff2012e88f/LevelOfDetail3.etextile" order="30"/>
+          <levelsOfDetail name="LevelOfDetail4" id="cb5a1a0f-660d-44f8-bb1e-73832619369c" description="files/descriptions/e6193bcf-8ecc-4e63-82c4-49ff2012e88f/LevelOfDetail4.etextile" order="40"/>
+        </levels>
+      </workProducts>
+    </subAlphas>
+    <stateMachine name="States" id="f52b35de-6160-4b28-9a85-94bde4cea44a" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_fRNbgJs4EeGz7PwLWcYeYg"/>
+    </stateMachine>
+  </alphas>
+  <alphas name="Software System" id="9b7d4951-32d7-493f-8fbe-0cc18e6621c9" extension="true" description="files/descriptions/9b7d4951-32d7-493f-8fbe-0cc18e6621c9/Software System.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_hIYJAJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="71074c38-92d1-4ea5-86b5-db0f086efb1d" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_h6DdkJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Increment" id="e0253835-750f-4f89-91e4-b8b69eddf1c9" description="files/descriptions/e0253835-750f-4f89-91e4-b8b69eddf1c9/Increment.etextile">
+      <levels name="Levels Of Detail" id="d231785b-65b6-43e5-a54c-0f024268b232">
+        <levelsOfDetail name="LevelOfDetail1" id="70a6468e-e4b7-4c5b-9e90-15de203d5621" description="files/descriptions/e0253835-750f-4f89-91e4-b8b69eddf1c9/LevelOfDetail1.etextile" order="10"/>
+        <levelsOfDetail name="LevelOfDetail2" id="7a943444-66a7-4e63-8eda-fa22c27a4864" description="files/descriptions/e0253835-750f-4f89-91e4-b8b69eddf1c9/LevelOfDetail2.etextile" order="20"/>
+        <levelsOfDetail name="LevelOfDetail3" id="8801b35f-2b6a-472f-b0db-4b8771b8acd1" description="files/descriptions/e0253835-750f-4f89-91e4-b8b69eddf1c9/LevelOfDetail3.etextile" order="30"/>
+        <levelsOfDetail name="LevelOfDetail4" id="38274a69-0623-4883-baba-f2e847ecab80" description="files/descriptions/e0253835-750f-4f89-91e4-b8b69eddf1c9/LevelOfDetail4.etextile" order="40"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <alphas name="Requirements" id="4724bcab-8073-4150-8b37-131b1da4acf4" extension="true" description="files/descriptions/4724bcab-8073-4150-8b37-131b1da4acf4/Requirements.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:Alpha" href="../../Essence%20Kernel/files/root.ewx#_f9EMcJqqEeGqE71CwgtiTg"/>
+    <stateMachine name="States" id="443f2807-f239-40ea-8e5c-04cca866e920" extension="true">
+      <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:StateMachine" href="../../Essence%20Kernel/files/root.ewx#_gd-hIJqqEeGqE71CwgtiTg"/>
+    </stateMachine>
+    <workProducts name="Product Backlog" id="3ef5a087-8423-453a-9ede-d8263fd5f9e2" description="files/descriptions/3ef5a087-8423-453a-9ede-d8263fd5f9e2/Product Backlog.etextile">
+      <levels name="Levels Of Detail" id="37814cc5-0924-4cad-af72-9d53e52b2a56">
+        <levelsOfDetail name="Initial" id="d474f191-3727-4c6f-95b3-e2fbeffd0bbe" description="files/descriptions/3ef5a087-8423-453a-9ede-d8263fd5f9e2/Initial.etextile" order="10"/>
+      </levels>
+    </workProducts>
+  </alphas>
+  <activitySpaces name="Track Progress" id="9f944d28-0e66-4b6d-a62f-a0c95c702c90" extension="true" description="files/descriptions/9f944d28-0e66-4b6d-a62f-a0c95c702c90/Track Progress.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_KzsNcJtDEeGD_KwXqdXFgA"/>
+    <activities name="Daily Scrum" id="17011ab6-6541-4bcf-bbb3-8eff33ebadb3" description="files/descriptions/17011ab6-6541-4bcf-bbb3-8eff33ebadb3/Daily Scrum.etextile" alphaInput="a25930ec-25d0-4055-be5f-d285efe69b1e">
+      <alphaCriteria name="Sprint is Under Control" id="7905b968-fe45-4dbf-94e7-1e4c1114277c" reachedState="376083f6-8633-4653-9d3c-7fc63ed792ff"/>
+    </activities>
+    <activities name="Sprint Review" id="eb3c6a52-c25a-4864-99ce-5555c53f05c4" description="files/descriptions/eb3c6a52-c25a-4864-99ce-5555c53f05c4/Sprint Review.etextile" alphaInput="a25930ec-25d0-4055-be5f-d285efe69b1e">
+      <alphaCriteria name="Sprint is Concluded" id="81033b8e-b6e9-4e3b-b3c7-a74b92787ce6" reachedState="379e1a28-0f80-4c08-be75-e21e0be8255a"/>
+    </activities>
+  </activitySpaces>
+  <activitySpaces name="Support the Team" id="5b282775-fb7b-4613-a5e9-53fb2c6977c9" extension="true" description="files/descriptions/5b282775-fb7b-4613-a5e9-53fb2c6977c9/Support the Team.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_Fjdp8JtDEeGD_KwXqdXFgA"/>
+    <activities name="Sprint Retrospective" id="7b663ce7-b014-46cc-83bb-a2cc14ee81da" description="files/descriptions/7b663ce7-b014-46cc-83bb-a2cc14ee81da/Sprint Retrospective.etextile" alphaInput="5d0b6dbb-c029-4b3c-9f8b-820ce0ce94fc">
+      <alphaCriteria name="Team is Performing" id="b90e22c3-7c13-4b20-a762-04e7c7a89c95">
+        <reachedState href="../../Essence%20Kernel/files/root.ewx#_JFLnwJtEEeGD_KwXqdXFgA"/>
+      </alphaCriteria>
+    </activities>
+  </activitySpaces>
+  <activitySpaces name="Coordinate Activity" id="4b192f66-c6b9-4059-8b5b-83829f3b4895" extension="true" description="files/descriptions/4b192f66-c6b9-4059-8b5b-83829f3b4895/Coordinate Activity.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_AstWYJtDEeGD_KwXqdXFgA"/>
+    <activities name="Sprint Planning Meeting" id="dcbd3bdc-da37-4155-9474-0939a9fb4e20" description="files/descriptions/dcbd3bdc-da37-4155-9474-0939a9fb4e20/Sprint Planning Meeting.etextile" alphaInput="4724bcab-8073-4150-8b37-131b1da4acf4">
+      <alphaCriteria name="Sprint is Planned" id="f3360bfd-50d4-4c60-b194-8530227002e2" reachedState="efc2feab-f796-41bf-85d2-da46b7d20fd4"/>
+    </activities>
+  </activitySpaces>
+  <patternSpaces name="Scrum Roles" id="2f39cd1f-0935-4e50-8bc8-25a36f1a73c3" description="files/descriptions/2f39cd1f-0935-4e50-8bc8-25a36f1a73c3/Scrum Roles.etextile">
+    <patterns name="Scrum Team" id="8b018b52-026f-4a2e-b305-6c26800feab8" description="files/descriptions/8b018b52-026f-4a2e-b305-6c26800feab8/Scrum Team.etextile"/>
+    <patterns name="Product Owner" id="53631e17-fa87-4e3f-b366-252a96d872e4" description="files/descriptions/53631e17-fa87-4e3f-b366-252a96d872e4/Product Owner.etextile"/>
+    <patterns name="Development Team" id="c33acb73-6169-4da0-aafc-38eec056bbd6" description="files/descriptions/c33acb73-6169-4da0-aafc-38eec056bbd6/Development Team.etextile"/>
+    <patterns name="Scrum Master" id="eee6d10a-6725-4ee3-ad9f-6285050f4fb7" description="files/descriptions/eee6d10a-6725-4ee3-ad9f-6285050f4fb7/Scrum Master.etextile"/>
+  </patternSpaces>
+</com.ivarjacobson.essworkng.domainmodel:Practice>

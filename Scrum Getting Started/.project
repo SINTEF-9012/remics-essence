@@ -3,6 +3,7 @@
 	<name>Scrum Getting Started</name>
 	<comment></comment>
 	<projects>
+		<project>Essence Kernel</project>
 		<project>Scrum Essentials</project>
 	</projects>
 	<buildSpec>

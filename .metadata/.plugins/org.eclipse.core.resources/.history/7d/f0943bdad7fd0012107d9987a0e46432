@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ivarjacobson.essworkng.domainmodel:PracticeExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ivarjacobson.essworkng.domainmodel="http://com.ivarjacobson.essworkng.domainmodel/1.0" name="Scrum Getting Started" id="f2127cb5-8267-44e1-9d3d-77beaaba38cb" description="files/descriptions/f2127cb5-8267-44e1-9d3d-77beaaba38cb/Scrum Getting Started.etextile" copyright="" version="">
+  <activitySpaces name="Prepare to do the Work" id="94422085-3a5f-44da-a775-011e8e55a3f4" extension="true" description="files/descriptions/94422085-3a5f-44da-a775-011e8e55a3f4/Prepare to do the Work.etextile">
+    <extends xsi:type="com.ivarjacobson.essworkng.domainmodel:ActivitySpace" href="../../Essence%20Kernel/files/root.ewx#_62RugJtCEeGD_KwXqdXFgA"/>
+    <activities name="Prepare the Scrum Team" id="5726f555-39d4-4105-a156-b4626887d9d1" description="files/descriptions/5726f555-39d4-4105-a156-b4626887d9d1/Prepare the Scrum Team.etextile">
+      <alphaCriteria name="Team is Seeded" id="e4a0523f-5e09-4ae1-9c6c-5902151c3348">
+        <reachedState href="../../Essence%20Kernel/files/root.ewx#_JFAooZtEEeGD_KwXqdXFgA"/>
+      </alphaCriteria>
+    </activities>
+    <activities name="Prepare the Product Backlog" id="4c01df53-0e50-4faf-9a69-1e2f5d7113e0" description="files/descriptions/4c01df53-0e50-4faf-9a69-1e2f5d7113e0/Prepare the Product Backlog.etextile">
+      <workProductCriteria name="Product Backlog Structure Defined" id="fc2931dd-8c9e-4a05-9d97-ab36c429e022"/>
+    </activities>
+    <activities name="Ordering the Product Backlog" id="7dd89d81-d526-4f56-a915-54082dd384ec" description="files/descriptions/7dd89d81-d526-4f56-a915-54082dd384ec/Ordering the Product Backlog.etextile"/>
+  </activitySpaces>
+</com.ivarjacobson.essworkng.domainmodel:PracticeExtension>
