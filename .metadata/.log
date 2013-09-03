@@ -5721,3 +5721,52 @@ java.io.FileNotFoundException: W:\EPF\EssWork\REMICS\.metadata\.plugins\org.ecli
 	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1109)
 	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:51)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2013-08-15 11:10:20.878 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_37
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=no_NO
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-08-15 11:10:22.114
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2013-08-19 14:26:39.524 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_37
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=no_NO
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 4 568 2013-08-19 14:44:59.519
+!MESSAGE Could not write metadata for '/SEMAT Practices Configuration'.
+!STACK 0
+java.io.FileNotFoundException: W:\EPF\EssWork\REMICS\.metadata\.plugins\org.eclipse.core.resources\.projects\SEMAT Practices Configuration\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.openAppend(Native Method)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:45)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:41)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1685)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1768)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1167)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1109)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:51)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2013-08-21 08:57:04.629 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_37
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=no_NO
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.ivarjacobson.essworkng.wikitexteditor 1 0 2013-08-21 08:57:08.415
+!MESSAGE Localization.translateFromMap: for entry: Available activities: entry == null || currentLanguageMap == null
+
+!ENTRY com.ivarjacobson.essworkng.wikitexteditor 1 0 2013-08-21 08:57:09.073
+!MESSAGE Localization.translateFromMap: for entry: Available activities: entry == null || currentLanguageMap == null
+
+!ENTRY com.ivarjacobson.essworkng.wikitexteditor 1 0 2013-08-21 08:57:09.116
+!MESSAGE Localization.translateFromMap: for entry: Available activities: entry == null || currentLanguageMap == null
+
+!ENTRY com.ivarjacobson.essworkng.wikitexteditor 1 0 2013-08-21 08:57:09.896
+!MESSAGE Localization.translateFromMap: for entry: Available activities: entry == null || currentLanguageMap == null
